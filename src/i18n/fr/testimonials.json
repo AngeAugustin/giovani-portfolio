@@ -1,0 +1,34 @@
+{
+  "items": {
+    "t1": {
+      "quote": "Une rigueur rare sur le chantier et une communication limpide avec toutes les parties prenantes.",
+      "author": "A. Mensah",
+      "role": "Directeur de projet BTP"
+    },
+    "t2": {
+      "quote": "Giovani porte une soirée comme peu d'animateurs savent le faire — précision, chaleur, élégance.",
+      "author": "S. Adjo",
+      "role": "Productrice événementielle"
+    },
+    "t3": {
+      "quote": "En six semaines, ma prise de parole en COMEX a changé de dimension. Méthode claire, feedbacks justes.",
+      "author": "K. Diallo",
+      "role": "Directrice générale"
+    },
+    "t4": {
+      "quote": "Sur le plateau, il crée immédiatement un climat de confiance. Les invités se livrent naturellement.",
+      "author": "M. Tossou",
+      "role": "Rédacteur en chef TV"
+    },
+    "t5": {
+      "quote": "L'atelier a transformé notre équipe commerciale. On pitch autrement — et on gagne plus souvent.",
+      "author": "R. Okeke",
+      "role": "Head of Sales"
+    },
+    "t6": {
+      "quote": "Un partenaire technique fiable, proactif, toujours orienté solution.",
+      "author": "Bureau d'études Horizon",
+      "role": "Partenaire ingénierie"
+    }
+  }
+}

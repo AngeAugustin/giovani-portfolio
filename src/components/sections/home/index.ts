@@ -1,0 +1,5 @@
+export { HomeHero } from './HomeHero'
+export { HomeDomainsPreview } from './HomeDomainsPreview'
+export { HomeFeaturedWork } from './HomeFeaturedWork'
+export { HomeTestimonials } from './HomeTestimonials'
+export { HomeCtaBand, CtaBand } from './HomeCtaBand'

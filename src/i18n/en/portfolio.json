@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "Work — Giovani HOUENOU",
+    "description": "Filterable portfolio of civil engineering, media and coaching projects."
+  },
+  "watermark": "WORK",
+  "backHome": "Back to home",
+  "eyebrow": "Work",
+  "title": "Projects that leave a mark",
+  "subtitle": "A selection of sites, stages and coaching engagements — built for rigor and presence.",
+  "ctaDomains": "View domains",
+  "filterLabel": "Filter by domain",
+  "caseStudy": "Case study",
+  "empty": "No projects in this category.",
+  "promise": {
+    "label": "Promise",
+    "quote": "Projects delivered with clarity — from site to stage.",
+    "forWhom": "For whom?",
+    "tags": ["Civil Engineering", "TV & MC", "Coaching"]
+  },
+  "detail": {
+    "context": "Context",
+    "role": "Role",
+    "result": "Outcome",
+    "year": "Year",
+    "domain": "Domain",
+    "client": "Client",
+    "location": "Location",
+    "overview": "Overview",
+    "approach": "Approach",
+    "deliverables": "Deliverables",
+    "tags": "Skills applied",
+    "related": "Related work",
+    "backPortfolio": "All projects",
+    "ctaTitle": "A similar project in mind?",
+    "ctaText": "Let’s talk about your need — you’ll get a clear proposal back."
+  },
+  "items": {
+    "pont-cotonou": {
+      "title": "Urban crossing structure",
+      "summary": "Technical support on a major urban bridge project.",
+      "client": "Public project owner",
+      "location": "Cotonou, Benin",
+      "overview": "On a strategic corridor in a dense area, the structure had to ease traffic while respecting soil constraints, phasing and continuity of use. The goal: secure technical choices, document controls and keep coordination with the design team sharp.",
+      "context": "High-impact urban infrastructure: crossing in a dense setting, multiple interfaces (roads, utilities, residents) and a tight schedule. Structural specs and control traceability were critical for handover.",
+      "role": "Consulting engineer — technical follow-up, note review, site checkpoints and coordination with the design team to resolve gaps before they cost time.",
+      "result": "Delivery to specification, on schedule, with a clear control file for the owner. Non-conformities were handled early rather than at the end of the works.",
+      "approach": [
+        "Frame technical requirements and control points",
+        "Regular reviews of drawings and execution notes",
+        "Site presence at critical milestones",
+        "Actionable reporting for decisions",
+        "Documented close-out for reception"
+      ],
+      "deliverables": [
+        "Technical notes and structural opinions",
+        "Control sheets and traceability",
+        "Site visit reports",
+        "Owner-facing summaries"
+      ],
+      "tags": ["Bridge works", "Site follow-up", "Quality control", "Design coordination"]
+    },
+    "complexe-residential": {
+      "title": "Residential complex",
+      "summary": "Construction supervision for a multi-building housing program.",
+      "client": "Real-estate developer",
+      "location": "Greater Nokoué, Benin",
+      "overview": "Multi-building program with soil constraints and tight phasing. The aim was to secure structural quality while keeping dialogue fluid between developer, contractors and the design office.",
+      "context": "Residential scheme across several lots, with many technical interfaces and strong pressure on first-building delivery dates.",
+      "role": "Technical supervision and contractor interface — validating execution, quality alerts and support for developer arbitrations.",
+      "result": "Structural quality validated, fewer non-conformities on site, and clearer reporting for technical and financial follow-up.",
+      "approach": [
+        "Map technical risks per lot",
+        "Progress checkpoints and targeted controls",
+        "Fast escalation of critical gaps",
+        "Align developer / contractors / design team",
+        "Phase reviews before moving to the next lot"
+      ],
+      "deliverables": [
+        "Control schedule by phase",
+        "Visit reports and annotated photos",
+        "Non-conformity trackers",
+        "Correction recommendations"
+      ],
+      "tags": ["Residential", "Supervision", "Phasing", "Structural quality"]
+    },
+    "voirie-porto": {
+      "title": "Road rehabilitation",
+      "summary": "Technical assistance on an urban roadway project.",
+      "client": "Local authority / owner",
+      "location": "Porto-Novo, Benin",
+      "overview": "Rehabilitation of pavements and associated networks in an urban setting. The project required rigorous quality control and clear reporting for a non-technical owner.",
+      "context": "Works in an urban area with traffic constraints, utility coordination and surface durability requirements.",
+      "role": "Quality control and reporting for the owner — field presence, execution checks and gap summaries.",
+      "result": "Improved surface durability, clearer deliverables, and better-informed decisions throughout the works.",
+      "approach": [
+        "Define acceptance criteria",
+        "On-site controls at key stages",
+        "Track snags and corrections",
+        "Simplified weekly reporting",
+        "Support works reception"
+      ],
+      "deliverables": [
+        "Roadway control sheets",
+        "Snag lists",
+        "Owner-facing summaries",
+        "Reception file"
+      ],
+      "tags": ["Roads", "Quality control", "Owner reporting", "Rehabilitation"]
+    },
+    "emission-prime": {
+      "title": "Prime-time show",
+      "summary": "Hosting a cultural show with strong audience performance.",
+      "client": "TV channel",
+      "location": "Cotonou, Benin",
+      "overview": "Weekly format mixing debates, portraits and live moments. On-air hosting had to stay fluid, embodied and true to the show’s brand tone.",
+      "context": "Cultural prime time with varied guests, timed segments and an audience used to a precise rhythm.",
+      "role": "Lead presenter — on-air flow, interviews and live transitions.",
+      "result": "Loyal audience, strong show branding, and positive feedback on presence and clarity of exchanges.",
+      "approach": [
+        "Editorial brief with the newsroom",
+        "Prepare interview angles",
+        "Rehearse transitions and timing",
+        "Live hosting with listening and pace",
+        "Debrief to refine the next episode"
+      ],
+      "deliverables": [
+        "Full on-air presence",
+        "Structured interviews",
+        "Timing held",
+        "Contribution to brand tone"
+      ],
+      "tags": ["TV", "Prime time", "Interviews", "On-air hosting"]
+    },
+    "gala-national": {
+      "title": "National gala",
+      "summary": "Master of ceremonies for an awards evening.",
+      "client": "Institution & partners",
+      "location": "Cotonou, Benin",
+      "overview": "Protocol ceremony bringing institutions and private partners together. The stake: an impeccable run of show, the right tone and frictionless timing.",
+      "context": "Awards evening with protocol, multiple speeches, prize moments and capture constraints.",
+      "role": "Master of ceremonies — run-of-show writing, transitions, announcements and room pace.",
+      "result": "Smooth evening, right tone, unanimous organizer feedback and capture without rhythm breaks.",
+      "approach": [
+        "Protocol brief and evening goals",
+        "Minute-by-minute script and timing",
+        "Stage / control room / protocol coordination",
+        "Live hosting and contingency handling",
+        "Close-out and handoff to teams"
+      ],
+      "deliverables": [
+        "Ceremony script",
+        "Evening hosting",
+        "Announcements and transitions",
+        "Timing held"
+      ],
+      "tags": ["MC", "Protocol", "Gala", "Events"]
+    },
+    "conference-ceo": {
+      "title": "Executive summit",
+      "summary": "Moderation of a full day of executive conferences.",
+      "client": "Business forum",
+      "location": "Cotonou, Benin",
+      "overview": "A day of panels, keynotes and networking for executives. Moderation had to energize exchanges without overshadowing speakers, while holding a tight schedule.",
+      "context": "Multi-session forum with sponsors, international speakers and a demanding audience.",
+      "role": "Moderator and master of ceremonies for the day — opening, panels, transitions and close.",
+      "result": "Dynamic exchanges, timing respected, sponsor and participant satisfaction.",
+      "approach": [
+        "Align on the forum’s key messages",
+        "Brief speakers and angles",
+        "Day scenario and safety nets",
+        "Active panel moderation",
+        "Closing synthesis"
+      ],
+      "deliverables": [
+        "Opening and day narrative thread",
+        "Panel moderation",
+        "Timing held",
+        "Structured close"
+      ],
+      "tags": ["Moderation", "Conference", "Executives", "MC"]
+    },
+    "atelier-executives": {
+      "title": "Executive workshop",
+      "summary": "Intensive public speaking program for a leadership team.",
+      "client": "Company — executive committee",
+      "location": "Cotonou, Benin",
+      "overview": "Leaders needed to align strategic messaging with presence. The program combined method, individual feedback and near-real drills.",
+      "context": "Executive team exposed internally and externally, with uneven comfort levels when speaking.",
+      "role": "Coach — curriculum design, group sessions and targeted one-to-one feedback.",
+      "result": "Measurable gains in clarity, posture and public-meeting impact; a shared language to carry strategy.",
+      "approach": [
+        "Individual and group diagnosis",
+        "Clarify strategic messages",
+        "Filmed drills and feedback",
+        "Work on voice, posture and stage fright",
+        "Anchor on real COMEX situations"
+      ],
+      "deliverables": [
+        "Tailored workshop path",
+        "Feedback grids",
+        "Individual progress plans",
+        "Key-message kit"
+      ],
+      "tags": ["Coaching", "Executives", "Presence", "Messaging"]
+    },
+    "masterclass-youth": {
+      "title": "Youth masterclass",
+      "summary": "Group training for emerging speakers.",
+      "client": "Academy / youth program",
+      "location": "Benin",
+      "overview": "Group training for young talent stepping onto stage or media. Focus: method, confidence and intensive live drills.",
+      "context": "Motivated but uneven cohort — need for a demanding and supportive frame.",
+      "role": "Lead trainer — method, exercises, feedback and preparation for public appearances.",
+      "result": "More confident cohort; several participants placed in hosting or public speaking roles.",
+      "approach": [
+        "Set fundamentals (structure, voice, eye contact)",
+        "Progressive filmed exercises",
+        "Facilitated peer feedback",
+        "Stage / set simulations",
+        "Prepare a final public passage"
+      ],
+      "deliverables": [
+        "Masterclass sessions",
+        "Method materials",
+        "Individual feedback",
+        "Assessed final passage"
+      ],
+      "tags": ["Training", "Youth talent", "Stage", "Media"]
+    },
+    "coaching-politique": {
+      "title": "High-stakes speech prep",
+      "summary": "Targeted coaching for a high-exposure public address.",
+      "client": "Spokesperson / public figure",
+      "location": "Confidential",
+      "overview": "Public intervention under strong media attention. Coaching covered the script, rehearsals and stress management for clear, credible presence.",
+      "context": "High-stakes address, mixed audience and expected press coverage.",
+      "role": "Coach — speech structure, rehearsals, posture and stage-fright management.",
+      "result": "Clear speech, steady posture, positive press coverage and control of the core message.",
+      "approach": [
+        "Clarify the goal and single core message",
+        "Write / rewrite the script",
+        "Timed rehearsals",
+        "Voice and on-camera presence work",
+        "Day-of stress management plan"
+      ],
+      "deliverables": [
+        "Final script",
+        "Rehearsal sessions",
+        "Posture and intention notes",
+        "Day-of checklist"
+      ],
+      "tags": ["Speech", "Media", "Stage fright", "1:1 coaching"]
+    }
+  }
+}

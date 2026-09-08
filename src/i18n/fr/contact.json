@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Giovani HOUENOU",
+    "description": "Contactez Giovani HOUENOU pour un projet BTP, une animation ou un coaching."
+  },
+  "eyebrow": "Contact",
+  "title": "Parlons de votre projet",
+  "subtitle": "Un message suffit pour démarrer. Réponse sous 48h ouvrées.",
+  "info": {
+    "email": "hello@giovanihouenou.com",
+    "phone": "+229 00 00 00 00",
+    "location": "Cotonou, Bénin",
+    "availability": "Disponible pour missions nationales et internationales",
+    "emailLabel": "Email",
+    "phoneLabel": "Téléphone",
+    "locationLabel": "Localisation"
+  },
+  "form": {
+    "name": "Nom complet",
+    "email": "Email",
+    "subject": "Sujet",
+    "domain": "Univers concerné",
+    "domainPlaceholder": "Sélectionner…",
+    "message": "Message",
+    "success": "Message envoyé. Merci — je vous recontacte rapidement.",
+    "error": "Une erreur est survenue. Réessayez ou écrivez-moi directement.",
+    "errors": {
+      "name": "Indiquez votre nom (2 caractères min.).",
+      "email": "Email invalide.",
+      "subject": "Sujet requis.",
+      "domain": "Choisissez un univers.",
+      "message": "Message trop court (20 caractères min.)."
+    }
+  }
+}

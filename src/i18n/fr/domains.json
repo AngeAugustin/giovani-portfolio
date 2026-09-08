@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "title": "Domaines d'expertise — Giovani HOUENOU",
+    "description": "Explorez les trois univers de Giovani : génie civil, TV & MC, coaching en prise de parole."
+  },
+  "watermark": "UNIVERS",
+  "eyebrow": "Domaines",
+  "backHome": "Retour à l'accueil",
+  "title": "Comment je peux vous accompagner",
+  "subtitle": "Trois univers complémentaires pour construire, communiquer et inspirer — du chantier au plateau.",
+  "gridIntro": "Choisissez un domaine pour explorer le contenu dédié — même exigence de présence, accents différenciés.",
+  "explore": "Explorer",
+  "civil": {
+    "title": "Génie Civil",
+    "tagline": "La structure comme langage",
+    "intro": "Conception, suivi de chantier et conseil technique pour des ouvrages fiables et durables au Bénin et en Afrique de l'Ouest.",
+    "index": "01",
+    "available": "Disponible",
+    "overview": "J’accompagne maîtres d’ouvrage et équipes projet sur la conception, le contrôle et le suivi d’ouvrages. Mon approche allie rigueur technique, présence terrain et clarté dans le reporting — pour des livrables fiables, conformes et durables.",
+    "highlights": [
+      "Études techniques et dimensionnement",
+      "Suivi de réalisation BTP",
+      "Contrôle qualité et conformité",
+      "Conseil pour maîtres d'ouvrage"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offres" },
+      { "label": "Livrables", "value": "05", "hint": "clés" },
+      { "label": "Étapes", "value": "05", "hint": "approche" }
+    ],
+    "deliverables": [
+      {
+        "title": "Études & notes techniques",
+        "text": "Dimensionnement, relecture de plans et recommandations structurelles exploitables."
+      },
+      {
+        "title": "Suivi de réalisation",
+        "text": "Présence chantier, points d’avancement et alertes qualité en temps utile."
+      },
+      {
+        "title": "Contrôle conformité",
+        "text": "Vérifications normes, traçabilité et reporting pour décideurs."
+      },
+      {
+        "title": "Appui maître d’ouvrage",
+        "text": "Aide à la décision, arbitrages techniques et cadrage des prestataires."
+      },
+      {
+        "title": "Passation claire",
+        "text": "Synthèses et livrables documentés pour la suite du projet."
+      }
+    ],
+    "approach": [
+      "Comprendre le programme, le site et vos contraintes budgétaires",
+      "Cadre technique et critères de qualité dès le démarrage",
+      "Itérations courtes avec points de validation réguliers",
+      "Contrôle terrain et reporting actionnable",
+      "Clôture documentée et recommandations pour l’exploitation"
+    ],
+    "tools": [
+      "Études structure",
+      "Plans & notes",
+      "Suivi chantier",
+      "Contrôle qualité",
+      "Reporting MOA",
+      "Conformité"
+    ],
+    "idealFor": [
+      "Maîtres d’ouvrage publics ou privés au Bénin",
+      "Promoteurs qui sécurisent un projet résidentiel ou tertiaire",
+      "Équipes BTP qui ont besoin d’un regard technique indépendant",
+      "Projets d’infrastructure ou de réhabilitation à cadrer"
+    ],
+    "cta": "Voir les projets BTP"
+  },
+  "media": {
+    "title": "TV & Maître de Cérémonie",
+    "tagline": "La scène comme terrain",
+    "intro": "Animation d'émissions, galas, conférences et cérémonies officielles — une présence qui porte le rythme et l'émotion.",
+    "index": "02",
+    "available": "Disponible",
+    "overview": "Je conduis antenne et cérémonies avec une présence qui structure le déroulé, met les intervenants en valeur et garde le public engagé. Du brief au plateau, je livre une animation claire, élégante et maîtrisée.",
+    "highlights": [
+      "Présentation d'émissions TV",
+      "Maîtrise de cérémonie événementielle",
+      "Modération de panels et conférences",
+      "Voix-off et captation"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offres" },
+      { "label": "Livrables", "value": "05", "hint": "clés" },
+      { "label": "Étapes", "value": "05", "hint": "approche" }
+    ],
+    "deliverables": [
+      {
+        "title": "Conduite d’antenne",
+        "text": "Présentation, interviews et rythme d’émission maîtrisés."
+      },
+      {
+        "title": "Maîtrise de cérémonie",
+        "text": "Galas, remises de prix et cérémonies officielles du brief au déroulé."
+      },
+      {
+        "title": "Modération de panels",
+        "text": "Conférences et tables rondes avec une dynamique claire et inclusive."
+      },
+      {
+        "title": "Voix & captation",
+        "text": "Voix-off et présence caméra adaptées à votre tonalité de marque."
+      },
+      {
+        "title": "Brief & déroulé",
+        "text": "Script de cérémonie, timing et coordination avec vos équipes."
+      }
+    ],
+    "approach": [
+      "Aligner le message, le public et le ton de l’événement",
+      "Construire un déroulé précis avec vos équipes",
+      "Préparer transitions, interviews et moments clés",
+      "Animer avec présence, écoute et maîtrise du timing",
+      "Débrief rapide pour capitaliser sur la captation"
+    ],
+    "tools": [
+      "Antenne TV",
+      "MC événementiel",
+      "Modération",
+      "Voix-off",
+      "Script cérémonie",
+      "Captation"
+    ],
+    "idealFor": [
+      "Médias et émissions qui cherchent une présence antenne fiable",
+      "Institutions et entreprises organisant un gala ou une cérémonie",
+      "Conférences et panels à animer avec autorité et fluidité",
+      "Marques qui veulent une voix ou un face caméra cohérent"
+    ],
+    "cta": "Voir les événements"
+  },
+  "coach": {
+    "title": "Coach Prise de Parole",
+    "tagline": "La voix comme levier",
+    "intro": "Ateliers et accompagnements individuels pour parler avec clarté, impact et authenticité — en public comme en entreprise.",
+    "index": "03",
+    "available": "Disponible",
+    "overview": "J’aide dirigeants, porte-parole et équipes à structurer leur message, gérer le trac et incarner une présence crédible. Coaching individuel ou ateliers collectifs — toujours ancré dans des situations réelles.",
+    "highlights": [
+      "Coaching individuel dirigeants",
+      "Ateliers entreprise & institutions",
+      "Préparation aux pitchs et débats",
+      "Gestion du trac et posture"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offres" },
+      { "label": "Livrables", "value": "05", "hint": "clés" },
+      { "label": "Étapes", "value": "05", "hint": "approche" }
+    ],
+    "deliverables": [
+      {
+        "title": "Coaching individuel",
+        "text": "Accompagnement sur mesure pour dirigeants et porte-parole."
+      },
+      {
+        "title": "Ateliers collectifs",
+        "text": "Formations entreprise et institutions sur la prise de parole impactante."
+      },
+      {
+        "title": "Préparation pitch & débat",
+        "text": "Message, structure et répartie pour les moments à enjeux."
+      },
+      {
+        "title": "Posture & présence",
+        "text": "Voix, regard, corps — outils concrets pour incarner le discours."
+      },
+      {
+        "title": "Gestion du trac",
+        "text": "Techniques applicables avant et pendant la prise de parole."
+      }
+    ],
+    "approach": [
+      "Diagnostiquer le contexte, les enjeux et le niveau actuel",
+      "Clarifier le message et la structure du discours",
+      "Entraîner en conditions proches du réel",
+      "Ajuster voix, posture et gestion du trac",
+      "Ancrer les réflexes pour les prochains passages"
+    ],
+    "tools": [
+      "Coaching 1:1",
+      "Ateliers",
+      "Pitch",
+      "Débat",
+      "Posture",
+      "Gestion du trac"
+    ],
+    "idealFor": [
+      "Dirigeants qui portent la voix de leur organisation",
+      "Porte-parole préparant une prise de parole à fort enjeu",
+      "Équipes commerciales ou RH qui pitchent régulièrement",
+      "Institutions qui forment leurs intervenants"
+    ],
+    "cta": "Découvrir la méthode"
+  },
+  "detail": {
+    "back": "Retour aux domaines",
+    "overview": "Aperçu du domaine",
+    "services": "Services proposés",
+    "deliverables": "Ce que je livre",
+    "approach": "Mon approche",
+    "tools": "Savoir-faire & outils",
+    "idealFor": "Idéal pour",
+    "related": "Projets liés",
+    "otherDomains": "Autres univers",
+    "ctaTitle": "Un projet dans cet univers ?",
+    "ctaText": "Parlons de votre besoin — chantier, plateau ou prise de parole — et construisons l’accompagnement adapté."
+  }
+}

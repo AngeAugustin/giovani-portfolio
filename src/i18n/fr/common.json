@@ -1,0 +1,48 @@
+{
+  "brand": "Giovani HOUENOU",
+  "tagline": "Construire · Communiquer · Inspirer",
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "domains": "Domaines",
+    "portfolio": "Réalisations",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "cta": {
+    "contact": "Me contacter",
+    "discover": "Découvrir mon travail",
+    "viewProject": "Voir le projet",
+    "allProjects": "Toutes les réalisations",
+    "book": "Réserver un échange",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "back": "Retour"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "legal": "Mentions légales",
+    "location": "Cotonou, Bénin",
+    "navTitle": "Navigation",
+    "domainsTitle": "Univers",
+    "connectTitle": "Réseaux"
+  },
+  "domains": {
+    "civil": "Génie Civil",
+    "media": "TV & Maître de Cérémonie",
+    "coach": "Coach Prise de Parole",
+    "all": "Tous"
+  },
+  "seo": {
+    "siteName": "Giovani HOUENOU — Portfolio",
+    "defaultDescription": "Ingénieur en génie civil, présentateur TV, maître de cérémonie et coach en prise de parole en public basé au Bénin."
+  },
+  "loader": {
+    "label": "Giovani HOUENOU"
+  },
+  "a11y": {
+    "skip": "Aller au contenu principal",
+    "langSwitch": "Changer de langue"
+  }
+}

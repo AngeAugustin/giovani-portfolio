@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Giovani HOUENOU — Build, Communicate, Inspire",
+    "description": "Portfolio of Giovani HOUENOU: civil engineer, TV presenter & MC, public speaking coach. Based in Benin."
+  },
+  "hero": {
+    "eyebrow": "Cotonou · Benin",
+    "name": "Giovani\nHOUENOU",
+    "tagline": "Build · Communicate · Inspire",
+    "subtitle": "Civil engineer, TV presenter & master of ceremonies, public speaking coach — one presence at the service of your projects.",
+    "scroll": "Discover",
+    "domainsLabel": "Explore a universe"
+  },
+  "domainsPreview": {
+    "eyebrow": "Universes",
+    "title": "Three crafts, one signature",
+    "subtitle": "The same standard of presence — from site to stage, from structure to voice.",
+    "explore": "Explore",
+    "viewAll": "View all domains",
+    "civilDesc": "Structure, sites and technical excellence for lasting works.",
+    "mediaDesc": "Stage presence, event hosting and broadcast-ready delivery.",
+    "coachDesc": "Method, confidence and transformation for those who speak."
+  },
+  "featured": {
+    "eyebrow": "Highlights",
+    "title": "Selected work",
+    "subtitle": "Construction, media and training — a cross-cutting selection."
+  },
+  "testimonials": {
+    "eyebrow": "Trust",
+    "title": "What they say",
+    "subtitle": "Construction clients, media partners and coached speakers."
+  },
+  "ctaBand": {
+    "title": "A project to build, a stage to host, a voice to sharpen?",
+    "subtitle": "Tell me what you need — I reply within 48 hours.",
+    "button": "Send a message"
+  }
+}

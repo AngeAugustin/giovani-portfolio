@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "Réalisations — Giovani HOUENOU",
+    "description": "Portfolio filtrable de projets en génie civil, médias et coaching."
+  },
+  "watermark": "WORK",
+  "backHome": "Retour à l'accueil",
+  "eyebrow": "Réalisations",
+  "title": "Des projets qui marquent le terrain",
+  "subtitle": "Une sélection de chantiers, plateaux et accompagnements — conçus pour l'exigence et la présence.",
+  "ctaDomains": "Voir les domaines",
+  "filterLabel": "Filtrer par domaine",
+  "caseStudy": "Étude de cas",
+  "empty": "Aucun projet dans cette catégorie.",
+  "promise": {
+    "label": "Promesse",
+    "quote": "Des projets livrés avec clarté — du chantier à la scène.",
+    "forWhom": "Pour qui ?",
+    "tags": ["Génie Civil", "TV & MC", "Coaching"]
+  },
+  "detail": {
+    "context": "Contexte",
+    "role": "Rôle",
+    "result": "Résultat",
+    "year": "Année",
+    "domain": "Domaine",
+    "client": "Client",
+    "location": "Lieu",
+    "overview": "Aperçu",
+    "approach": "Approche",
+    "deliverables": "Livrables",
+    "tags": "Compétences mobilisées",
+    "related": "Projets liés",
+    "backPortfolio": "Toutes les réalisations",
+    "ctaTitle": "Un projet similaire en tête ?",
+    "ctaText": "Parlons de votre besoin — je vous réponds avec une proposition claire."
+  },
+  "items": {
+    "pont-cotonou": {
+      "title": "Ouvrage d'art — métropole",
+      "summary": "Appui technique sur un ouvrage de franchissement urbain.",
+      "client": "Maître d'ouvrage public",
+      "location": "Cotonou, Bénin",
+      "overview": "Sur un axe stratégique en zone dense, l'ouvrage devait fluidifier le trafic tout en respectant des contraintes de sol, de phasage et de continuité d'exploitation. L'enjeu : sécuriser les choix techniques, documenter les contrôles et garder une coordination nette avec la maîtrise d'œuvre.",
+      "context": "Projet d'infrastructure urbaine à fort impact : franchissement en milieu dense, interfaces multiples (voirie, réseaux, riverains) et calendrier serré. Les spécifications structurelles et la traçabilité des contrôles étaient critiques pour la réception.",
+      "role": "Ingénieur conseil — suivi technique, relecture des notes, points chantier et coordination avec la maîtrise d'œuvre pour arbitrer les écarts avant qu'ils ne coûtent du temps.",
+      "result": "Livraison conforme aux spécifications, délais tenus, dossier de contrôles lisible pour le maître d'ouvrage. Les non-conformités ont été traitées en amont plutôt qu'en fin de chantier.",
+      "approach": [
+        "Cadrage des exigences techniques et des points de contrôle",
+        "Revues régulières des plans et notes d'exécution",
+        "Présence chantier aux jalons critiques",
+        "Reporting actionnable pour la décision",
+        "Clôture documentée pour la réception"
+      ],
+      "deliverables": [
+        "Notes techniques et avis structurels",
+        "Fiches de contrôle et traçabilité",
+        "Comptes rendus de visite",
+        "Synthèses pour le maître d'ouvrage"
+      ],
+      "tags": ["Ouvrage d'art", "Suivi chantier", "Contrôle qualité", "Coordination MOE"]
+    },
+    "complexe-residential": {
+      "title": "Complexe résidentiel",
+      "summary": "Suivi de réalisation d'un ensemble de logements.",
+      "client": "Promoteur immobilier",
+      "location": "Grand Nokoué, Bénin",
+      "overview": "Programme multi-bâtiments avec contraintes de sol et phasage serré. L'objectif était d'assurer la qualité structurelle tout en fluidifiant le dialogue entre promoteur, entreprises et bureau d'études.",
+      "context": "Ensemble résidentiel en plusieurs lots, avec interfaces techniques nombreuses et une pression forte sur les délais de livraison des premiers bâtiments.",
+      "role": "Supervision technique et interface avec les entreprises — validation des exécutions, alertes qualité et appui aux arbitrages du promoteur.",
+      "result": "Qualité structurelle validée, réduction nette des non-conformités en phase chantier, et reporting plus lisible pour le suivi financier et technique.",
+      "approach": [
+        "Cartographie des risques techniques par lot",
+        "Points d'avancement et contrôles ciblés",
+        "Escalade rapide des écarts critiques",
+        "Alignement promoteur / entreprises / BET",
+        "Bilans de phase avant bascule au lot suivant"
+      ],
+      "deliverables": [
+        "Planning de contrôles par phase",
+        "Rapports de visite et photos annotées",
+        "Tableaux de non-conformités",
+        "Recommandations de correction"
+      ],
+      "tags": ["Résidentiel", "Supervision", "Phasage", "Qualité structure"]
+    },
+    "voirie-porto": {
+      "title": "Réhabilitation voirie",
+      "summary": "Assistance technique sur un projet de voirie urbaine.",
+      "client": "Collectivité / MOA",
+      "location": "Porto-Novo, Bénin",
+      "overview": "Réhabilitation de chaussées et réseaux associés en milieu urbain. Le projet demandait un contrôle qualité rigoureux et un reporting clair pour un maître d'ouvrage non technique.",
+      "context": "Travaux en zone urbaine avec contraintes de circulation, coordination réseaux et exigences de durabilité de surface.",
+      "role": "Contrôle qualité et reporting pour le maître d'ouvrage — présence terrain, vérification des exécutions et synthèse des écarts.",
+      "result": "Amélioration de la durabilité de surface, livrables plus lisibles, et décisions mieux informées tout au long du chantier.",
+      "approach": [
+        "Définition des critères d'acceptation",
+        "Contrôles in situ aux étapes clés",
+        "Suivi des réserves et corrections",
+        "Reporting hebdomadaire simplifié",
+        "Appui à la réception des travaux"
+      ],
+      "deliverables": [
+        "Fiches de contrôle voirie",
+        "Tableaux de réserves",
+        "Synthèses destinées au MOA",
+        "Dossier de réception"
+      ],
+      "tags": ["Voirie", "Contrôle qualité", "Reporting MOA", "Réhabilitation"]
+    },
+    "emission-prime": {
+      "title": "Émission prime time",
+      "summary": "Présentation d'une émission culturelle à fort taux d'audience.",
+      "client": "Chaîne TV",
+      "location": "Cotonou, Bénin",
+      "overview": "Format hebdomadaire alliant débats, portraits et moments live. La conduite d'antenne devait rester fluide, incarnée et fidèle à la tonalité de la marque émission.",
+      "context": "Prime time culturel avec invités variés, segments chronométrés et une audience habituée à un rythme précis.",
+      "role": "Présentateur principal — conduite d'antenne, interviews et transitions en direct.",
+      "result": "Audience fidélisée, positionnement fort de la marque émission, et retours positifs sur la présence et la clarté des échanges.",
+      "approach": [
+        "Brief éditorial avec la rédaction",
+        "Préparation des angles d'interview",
+        "Répétition des transitions et du timing",
+        "Conduite live avec écoute et répartie",
+        "Débrief pour ajuster le format suivant"
+      ],
+      "deliverables": [
+        "Présence antenne complète",
+        "Interviews structurées",
+        "Timing respecté",
+        "Contribution au ton de marque"
+      ],
+      "tags": ["TV", "Prime time", "Interviews", "Conduite d'antenne"]
+    },
+    "gala-national": {
+      "title": "Gala national",
+      "summary": "Maîtrise de cérémonie pour une soirée de distinction.",
+      "client": "Institution & partenaires",
+      "location": "Cotonou, Bénin",
+      "overview": "Cérémonie protocolaire réunissant institutions et partenaires privés. L'enjeu : un déroulé impeccable, un ton juste et une gestion du timing sans friction.",
+      "context": "Soirée de distinction avec protocole, interventions multiples, remises de prix et contraintes de captation.",
+      "role": "Maître de cérémonie — écriture du déroulé, transitions, annonces et tenue du rythme de salle.",
+      "result": "Soirée fluide, ton juste, retours unanimes des organisateurs et captation exploitée sans rupture de rythme.",
+      "approach": [
+        "Brief protocole et objectifs de soirée",
+        "Script et timing minute par minute",
+        "Coordination plateau / régie / protocol",
+        "Animation live et gestion des imprévus",
+        "Clôture et passation aux équipes"
+      ],
+      "deliverables": [
+        "Script de cérémonie",
+        "Conduite de soirée",
+        "Annonces et transitions",
+        "Timing respecté"
+      ],
+      "tags": ["MC", "Protocole", "Gala", "Événementiel"]
+    },
+    "conference-ceo": {
+      "title": "Sommet dirigeants",
+      "summary": "Modération d'une journée de conférences executives.",
+      "client": "Forum business",
+      "location": "Cotonou, Bénin",
+      "overview": "Journée de panels, keynotes et networking pour dirigeants. La modération devait dynamiser les échanges sans écraser les intervenants, tout en tenant un timing serré.",
+      "context": "Forum multi-sessions avec sponsors, intervenants internationaux et public exigeant.",
+      "role": "Modérateur et maître de cérémonie de la journée — ouverture, panels, transitions et clôture.",
+      "result": "Échanges dynamiques, timing respecté, satisfaction des sponsors et des participants.",
+      "approach": [
+        "Alignement sur les messages clés du forum",
+        "Brief des intervenants et des angles",
+        "Scénario de journée et filets de sécurité",
+        "Modération active des panels",
+        "Synthèse de clôture"
+      ],
+      "deliverables": [
+        "Ouverture et fil rouge de journée",
+        "Modération de panels",
+        "Respect du timing",
+        "Clôture structurée"
+      ],
+      "tags": ["Modération", "Conférence", "Dirigeants", "MC"]
+    },
+    "atelier-executives": {
+      "title": "Atelier dirigeants",
+      "summary": "Programme intensif de prise de parole pour COMEX.",
+      "client": "Entreprise — COMEX",
+      "location": "Cotonou, Bénin",
+      "overview": "Les dirigeants avaient besoin d'aligner discours stratégique et présence. Le programme a combiné méthode, feedbacks individuels et mises en situation proches du réel.",
+      "context": "Équipe dirigeante exposée en interne comme en externe, avec des niveaux hétérogènes de confort à l'oral.",
+      "role": "Coach — conception du parcours, sessions collectives et feedbacks individuels ciblés.",
+      "result": "Gains mesurables en clarté, posture et impact en réunion publique ; un langage commun pour porter la stratégie.",
+      "approach": [
+        "Diagnostic individuel et collectif",
+        "Clarification des messages stratégiques",
+        "Entraînement filmé et feedbacks",
+        "Travail voix, posture et gestion du trac",
+        "Ancrage sur des situations réelles du COMEX"
+      ],
+      "deliverables": [
+        "Parcours d'atelier sur mesure",
+        "Grilles de feedback",
+        "Plans de progression individuels",
+        "Kit de messages clés"
+      ],
+      "tags": ["Coaching", "COMEX", "Présence", "Message"]
+    },
+    "masterclass-youth": {
+      "title": "Masterclass jeunes talents",
+      "summary": "Formation collective pour orateurs émergents.",
+      "client": "Académie / programme jeunesse",
+      "location": "Bénin",
+      "overview": "Formation collective pour de jeunes talents qui montent sur scène ou en média. L'accent : méthode, confiance et mises en situation intensives.",
+      "context": "Cohorte motivée mais inégale en expérience — besoin d'un cadre exigeant et bienveillant.",
+      "role": "Formateur principal — méthode, exercices, feedbacks et préparation aux passages publics.",
+      "result": "Cohorte plus confiante ; plusieurs participants placés en animation ou interventions publiques.",
+      "approach": [
+        "Pose des fondamentaux (structure, voix, regard)",
+        "Exercices progressifs filmés",
+        "Feedbacks pair-à-pair encadrés",
+        "Simulations plateau / scène",
+        "Préparation d'un passage final"
+      ],
+      "deliverables": [
+        "Sessions de masterclass",
+        "Supports méthodologiques",
+        "Feedbacks individuels",
+        "Passage final évalué"
+      ],
+      "tags": ["Formation", "Jeunes talents", "Scène", "Média"]
+    },
+    "coaching-politique": {
+      "title": "Préparation discours public",
+      "summary": "Coaching ciblé pour une prise de parole à enjeu élevé.",
+      "client": "Porte-parole / personnalité",
+      "location": "Confidentiel",
+      "overview": "Intervention publique sous forte exposition médiatique. Le coaching a porté sur le script, les répétitions et la gestion du stress pour une présence claire et crédible.",
+      "context": "Prise de parole à fort enjeu, audience mixte et couverture presse attendue.",
+      "role": "Coach — structuration du discours, répétitions, posture et gestion du trac.",
+      "result": "Discours clair, posture stable, couverture presse positive et maîtrise du message principal.",
+      "approach": [
+        "Clarification de l'objectif et du message unique",
+        "Écriture / rewrite du script",
+        "Répétitions chronométrées",
+        "Travail voix et présence caméra",
+        "Plan de gestion du stress le jour J"
+      ],
+      "deliverables": [
+        "Script finalisé",
+        "Sessions de répétition",
+        "Notes de posture et d'intention",
+        "Checklist jour J"
+      ],
+      "tags": ["Discours", "Médias", "Trac", "Coaching 1:1"]
+    }
+  }
+}

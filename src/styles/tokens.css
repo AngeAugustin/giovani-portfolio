@@ -1,0 +1,41 @@
+/* Design tokens — « Scène + Structure » */
+@theme {
+  /* Primary blue — authority / engineering */
+  --color-primary-deep: #0b3d91;
+  --color-primary: #1656c9;
+  --color-primary-soft: #e8f0fe;
+
+  /* Accent orange — cue light / spotlight (5–10%) */
+  --color-accent: #ff7a30;
+  --color-accent-warm: #f5821f;
+
+  /* Stage — media moments, dark heroes */
+  --color-stage: #0a1628;
+  --color-stage-elevated: #122033;
+
+  /* Surfaces */
+  --color-surface: #ffffff;
+  --color-surface-muted: #f7f8fa;
+
+  /* Ink */
+  --color-ink: #12141a;
+  --color-ink-soft: #2a2e38;
+  --color-ink-muted: #6b7280;
+  --color-border: #e6e8ec;
+
+  /* Type — Syne = présence scène / titres ; Figtree = corps lisible */
+  --font-display: 'Syne', system-ui, sans-serif;
+  --font-sans: 'Figtree', system-ui, sans-serif;
+
+  --spacing-section: 2.5rem;
+  --spacing-section-lg: 3.25rem;
+  --spacing-gutter: 1.5rem;
+
+  /* Tighter editorial radii — less “SaaS card” */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.875rem;
+
+  --shadow-soft: 0 16px 48px -24px rgb(11 61 145 / 0.2);
+  --shadow-lift: 0 28px 64px -28px rgb(11 61 145 / 0.28);
+}

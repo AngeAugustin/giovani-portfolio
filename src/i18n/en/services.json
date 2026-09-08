@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Services — Giovani HOUENOU",
+    "description": "Services in civil engineering, TV & event hosting, and public speaking coaching."
+  },
+  "eyebrow": "Services",
+  "title": "What I offer",
+  "subtitle": "Clear offers for each universe — combine them to match your need.",
+  "items": {
+    "s1": {
+      "title": "Technical advisory & studies",
+      "text": "Design support, plan review and structural recommendations."
+    },
+    "s2": {
+      "title": "Site supervision",
+      "text": "On-site presence, quality control and reporting for owners."
+    },
+    "s3": {
+      "title": "TV presenting & voice",
+      "text": "On-air hosting, interviews and professional capture."
+    },
+    "s4": {
+      "title": "Master of ceremonies",
+      "text": "Galas, conferences, official ceremonies — from brief to run of show."
+    },
+    "s5": {
+      "title": "One-to-one coaching",
+      "text": "Tailored support for executives and spokespersons."
+    },
+    "s6": {
+      "title": "Group workshops",
+      "text": "Corporate and institutional training on impactful public speaking."
+    }
+  }
+}

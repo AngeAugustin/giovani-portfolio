@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Giovani HOUENOU — Construire, Communiquer, Inspirer",
+    "description": "Portfolio de Giovani HOUENOU : ingénieur en génie civil, présentateur TV & MC, coach en prise de parole. Basé au Bénin."
+  },
+  "hero": {
+    "eyebrow": "Cotonou · Bénin",
+    "name": "Giovani\nHOUENOU",
+    "tagline": "Construire · Communiquer · Inspirer",
+    "subtitle": "Ingénieur en génie civil, présentateur TV & maître de cérémonie, coach en prise de parole — une présence unique au service de vos projets.",
+    "scroll": "Découvrir",
+    "domainsLabel": "Explorer un univers"
+  },
+  "domainsPreview": {
+    "eyebrow": "Univers",
+    "title": "Trois expertises, une signature",
+    "subtitle": "Même exigence de présence — du chantier au plateau, de la structure à la voix.",
+    "explore": "Explorer",
+    "viewAll": "Voir tous les domaines",
+    "civilDesc": "Structure, chantiers et excellence technique au service d'ouvrages durables.",
+    "mediaDesc": "Présence scénique, animation d'événements et maîtrise du plateau télévisé.",
+    "coachDesc": "Méthode, confiance et transformation pour ceux qui prennent la parole."
+  },
+  "featured": {
+    "eyebrow": "Sélection",
+    "title": "Réalisations marquantes",
+    "subtitle": "Projets BTP, plateaux et formations — un aperçu transversal."
+  },
+  "testimonials": {
+    "eyebrow": "Confiance",
+    "title": "Ils en parlent",
+    "subtitle": "Clients BTP, partenaires médias et participants formés."
+  },
+  "ctaBand": {
+    "title": "Un projet à construire, une scène à animer, une voix à affirmer ?",
+    "subtitle": "Disons-nous ce qu'il faut faire — je vous réponds sous 48h.",
+    "button": "Écrire un message"
+  }
+}

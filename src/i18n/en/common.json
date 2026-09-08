@@ -1,0 +1,48 @@
+{
+  "brand": "Giovani HOUENOU",
+  "tagline": "Build · Communicate · Inspire",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "domains": "Domains",
+    "portfolio": "Work",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "cta": {
+    "contact": "Get in touch",
+    "discover": "Explore my work",
+    "viewProject": "View project",
+    "allProjects": "All projects",
+    "book": "Book a call",
+    "send": "Send message",
+    "sending": "Sending…",
+    "back": "Back"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "legal": "Legal notice",
+    "location": "Cotonou, Benin",
+    "navTitle": "Navigation",
+    "domainsTitle": "Universes",
+    "connectTitle": "Connect"
+  },
+  "domains": {
+    "civil": "Civil Engineering",
+    "media": "TV & Master of Ceremonies",
+    "coach": "Public Speaking Coach",
+    "all": "All"
+  },
+  "seo": {
+    "siteName": "Giovani HOUENOU — Portfolio",
+    "defaultDescription": "Civil engineer, TV presenter, master of ceremonies and public speaking coach based in Benin."
+  },
+  "loader": {
+    "label": "Giovani HOUENOU"
+  },
+  "a11y": {
+    "skip": "Skip to main content",
+    "langSwitch": "Switch language"
+  }
+}

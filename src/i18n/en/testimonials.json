@@ -1,0 +1,34 @@
+{
+  "items": {
+    "t1": {
+      "quote": "Rare rigor on site and crystal-clear communication with every stakeholder.",
+      "author": "A. Mensah",
+      "role": "Construction project director"
+    },
+    "t2": {
+      "quote": "Giovani carries an evening the way few hosts can — precision, warmth, elegance.",
+      "author": "S. Adjo",
+      "role": "Event producer"
+    },
+    "t3": {
+      "quote": "In six weeks, my executive-meeting presence leveled up. Clear method, fair feedback.",
+      "author": "K. Diallo",
+      "role": "CEO"
+    },
+    "t4": {
+      "quote": "On set, he instantly builds trust. Guests open up naturally.",
+      "author": "M. Tossou",
+      "role": "TV editor-in-chief"
+    },
+    "t5": {
+      "quote": "The workshop transformed our sales team. We pitch differently — and close more often.",
+      "author": "R. Okeke",
+      "role": "Head of Sales"
+    },
+    "t6": {
+      "quote": "A reliable, proactive technical partner — always solution-oriented.",
+      "author": "Horizon Design Office",
+      "role": "Engineering partner"
+    }
+  }
+}

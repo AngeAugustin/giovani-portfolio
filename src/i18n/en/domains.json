@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "title": "Expertise domains — Giovani HOUENOU",
+    "description": "Explore Giovani's three universes: civil engineering, TV & MC, public speaking coaching."
+  },
+  "watermark": "CRAFT",
+  "eyebrow": "Domains",
+  "backHome": "Back to home",
+  "title": "How I can support you",
+  "subtitle": "Three complementary universes to build, communicate and inspire — from site to stage.",
+  "gridIntro": "Pick a domain to explore dedicated content — the same standard of presence, differentiated accents.",
+  "explore": "Explore",
+  "civil": {
+    "title": "Civil Engineering",
+    "tagline": "Structure as language",
+    "intro": "Design, site supervision and technical advisory for reliable, lasting works in Benin and West Africa.",
+    "index": "01",
+    "available": "Available",
+    "overview": "I support owners and project teams on design, control and site follow-up. My approach combines technical rigor, on-site presence and clear reporting — for reliable, compliant and lasting deliverables.",
+    "highlights": [
+      "Technical studies and sizing",
+      "Construction site supervision",
+      "Quality control and compliance",
+      "Owner advisory"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offers" },
+      { "label": "Deliverables", "value": "05", "hint": "key" },
+      { "label": "Steps", "value": "05", "hint": "approach" }
+    ],
+    "deliverables": [
+      {
+        "title": "Studies & technical notes",
+        "text": "Sizing, plan review and actionable structural recommendations."
+      },
+      {
+        "title": "Site supervision",
+        "text": "On-site presence, progress checkpoints and timely quality alerts."
+      },
+      {
+        "title": "Compliance control",
+        "text": "Standards checks, traceability and reporting for decision-makers."
+      },
+      {
+        "title": "Owner advisory",
+        "text": "Decision support, technical arbitration and contractor framing."
+      },
+      {
+        "title": "Clear handoff",
+        "text": "Documented summaries and deliverables for the next project phase."
+      }
+    ],
+    "approach": [
+      "Understand the brief, the site and your budget constraints",
+      "Set the technical frame and quality criteria from day one",
+      "Short iterations with regular validation points",
+      "Field control and actionable reporting",
+      "Documented close-out and recommendations for operation"
+    ],
+    "tools": [
+      "Structural studies",
+      "Plans & notes",
+      "Site follow-up",
+      "Quality control",
+      "Owner reporting",
+      "Compliance"
+    ],
+    "idealFor": [
+      "Public or private owners in Benin",
+      "Developers securing a residential or commercial project",
+      "Construction teams needing an independent technical eye",
+      "Infrastructure or rehabilitation projects to frame"
+    ],
+    "cta": "View construction projects"
+  },
+  "media": {
+    "title": "TV & Master of Ceremonies",
+    "tagline": "The stage as field",
+    "intro": "Hosting shows, galas, conferences and official ceremonies — a presence that carries rhythm and emotion.",
+    "index": "02",
+    "available": "Available",
+    "overview": "I host shows and ceremonies with a presence that structures the run of show, elevates speakers and keeps the audience engaged. From brief to stage, I deliver clear, elegant, controlled hosting.",
+    "highlights": [
+      "TV show presenting",
+      "Event master of ceremonies",
+      "Panel and conference moderation",
+      "Voice-over and filming"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offers" },
+      { "label": "Deliverables", "value": "05", "hint": "key" },
+      { "label": "Steps", "value": "05", "hint": "approach" }
+    ],
+    "deliverables": [
+      {
+        "title": "On-air hosting",
+        "text": "Presenting, interviews and show pacing under control."
+      },
+      {
+        "title": "Master of ceremonies",
+        "text": "Galas, award nights and official ceremonies from brief to run of show."
+      },
+      {
+        "title": "Panel moderation",
+        "text": "Conferences and roundtables with clear, inclusive dynamics."
+      },
+      {
+        "title": "Voice & capture",
+        "text": "Voice-over and on-camera presence aligned with your brand tone."
+      },
+      {
+        "title": "Brief & run of show",
+        "text": "Ceremony script, timing and coordination with your teams."
+      }
+    ],
+    "approach": [
+      "Align message, audience and event tone",
+      "Build a precise run of show with your teams",
+      "Prepare transitions, interviews and key moments",
+      "Host with presence, listening and timing control",
+      "Quick debrief to capitalize on the capture"
+    ],
+    "tools": [
+      "TV hosting",
+      "Event MC",
+      "Moderation",
+      "Voice-over",
+      "Ceremony script",
+      "Capture"
+    ],
+    "idealFor": [
+      "Media teams seeking a reliable on-air presence",
+      "Institutions and companies hosting a gala or ceremony",
+      "Conferences and panels to moderate with authority and flow",
+      "Brands wanting a coherent voice or on-camera face"
+    ],
+    "cta": "View events"
+  },
+  "coach": {
+    "title": "Public Speaking Coach",
+    "tagline": "Voice as leverage",
+    "intro": "Workshops and one-to-one coaching to speak with clarity, impact and authenticity — on stage and at work.",
+    "index": "03",
+    "available": "Available",
+    "overview": "I help executives, spokespersons and teams structure their message, manage stage fright and embody credible presence. One-to-one coaching or group workshops — always grounded in real situations.",
+    "highlights": [
+      "Executive one-to-one coaching",
+      "Corporate & institutional workshops",
+      "Pitch and debate preparation",
+      "Stage fright and posture"
+    ],
+    "stats": [
+      { "label": "Services", "value": "02", "hint": "offers" },
+      { "label": "Deliverables", "value": "05", "hint": "key" },
+      { "label": "Steps", "value": "05", "hint": "approach" }
+    ],
+    "deliverables": [
+      {
+        "title": "One-to-one coaching",
+        "text": "Tailored support for executives and spokespersons."
+      },
+      {
+        "title": "Group workshops",
+        "text": "Corporate and institutional training on impactful public speaking."
+      },
+      {
+        "title": "Pitch & debate prep",
+        "text": "Message, structure and responses for high-stakes moments."
+      },
+      {
+        "title": "Posture & presence",
+        "text": "Voice, eye contact, body — concrete tools to embody the talk."
+      },
+      {
+        "title": "Stage fright management",
+        "text": "Techniques you can apply before and during speaking."
+      }
+    ],
+    "approach": [
+      "Diagnose context, stakes and current level",
+      "Clarify the message and speech structure",
+      "Rehearse in near-real conditions",
+      "Adjust voice, posture and stage fright management",
+      "Anchor habits for the next appearances"
+    ],
+    "tools": [
+      "1:1 coaching",
+      "Workshops",
+      "Pitch",
+      "Debate",
+      "Posture",
+      "Stage fright"
+    ],
+    "idealFor": [
+      "Leaders who carry their organisation’s voice",
+      "Spokespersons preparing a high-stakes talk",
+      "Sales or HR teams who pitch regularly",
+      "Institutions training their speakers"
+    ],
+    "cta": "Discover the method"
+  },
+  "detail": {
+    "back": "Back to domains",
+    "overview": "Domain overview",
+    "services": "Services offered",
+    "deliverables": "What I deliver",
+    "approach": "My approach",
+    "tools": "Craft & tools",
+    "idealFor": "Ideal for",
+    "related": "Related work",
+    "otherDomains": "Other universes",
+    "ctaTitle": "A project in this universe?",
+    "ctaText": "Let’s talk about your need — site, stage or speaking — and build the right support."
+  }
+}

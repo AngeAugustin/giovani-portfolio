@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Giovani HOUENOU",
+    "description": "Contact Giovani HOUENOU for a construction project, hosting or coaching."
+  },
+  "eyebrow": "Contact",
+  "title": "Let's talk about your project",
+  "subtitle": "One message is enough to start. Reply within 2 business days.",
+  "info": {
+    "email": "hello@giovanihouenou.com",
+    "phone": "+229 00 00 00 00",
+    "location": "Cotonou, Benin",
+    "availability": "Available for national and international assignments",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location"
+  },
+  "form": {
+    "name": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "domain": "Related universe",
+    "domainPlaceholder": "Select…",
+    "message": "Message",
+    "success": "Message sent. Thank you — I'll get back to you soon.",
+    "error": "Something went wrong. Please try again or email me directly.",
+    "errors": {
+      "name": "Please enter your name (min. 2 characters).",
+      "email": "Invalid email.",
+      "subject": "Subject required.",
+      "domain": "Please choose a universe.",
+      "message": "Message too short (min. 20 characters)."
+    }
+  }
+}
