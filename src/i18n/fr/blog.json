@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "Blog - Giovani HOUENOU",
+    "description": "Notes et regards sur le génie civil, la scène et la prise de parole."
+  },
+  "watermark": "NOTES",
+  "backHome": "Retour à l'accueil",
+  "eyebrow": "Blog",
+  "title": "Notes de terrain et de scène",
+  "subtitle": "Réflexions utiles sur la structure, la présence et la voix - pour ceux qui construisent, animent et prennent la parole.",
+  "ctaContact": "Me contacter",
+  "ctaRead": "Lire l'article",
+  "filterLabel": "Filtrer par domaine",
+  "empty": "Aucun article dans cette catégorie.",
+  "readTime": "{{count}} min de lecture",
+  "detail": {
+    "back": "Tous les articles",
+    "domain": "Domaine",
+    "date": "Publié le",
+    "related": "À lire aussi",
+    "ctaTitle": "Un sujet à creuser ensemble ?",
+    "ctaText": "Parlons de votre contexte - chantier, plateau ou prise de parole."
+  },
+  "items": {
+    "clarte-message-scene": {
+      "title": "Un message clair avant de monter sur scène",
+      "excerpt": "Avant le trac et la posture, il y a une phrase. Voici comment la trouver et la tenir.",
+      "lead": "Beaucoup de prises de parole échouent avant même le premier micro. Pas par manque de charisme - par manque de message unique.",
+      "sections": [
+        {
+          "heading": "Une seule intention",
+          "paragraphs": [
+            "Avant de travailler la voix ou le regard, posez cette question : que doit retenir l'auditoire en une phrase ? Si vous ne pouvez pas la formuler, le public ne le pourra pas non plus.",
+            "Cette phrase n'est pas un slogan marketing. C'est le fil qui oriente chaque anecdote, chaque transition, chaque silence."
+          ]
+        },
+        {
+          "heading": "Structurer sans rigidifier",
+          "paragraphs": [
+            "Une structure simple suffit : contexte, enjeu, proposition, appel. Le reste est variation selon le format - pitch, panel ou discours.",
+            "L'erreur fréquente : tout dire. La présence commence quand on assume de couper."
+          ]
+        },
+        {
+          "heading": "Répéter en conditions réelles",
+          "paragraphs": [
+            "Répéter assis à son bureau ne prépare pas au live. Chronométrez, filmez, changez de pièce. Le corps doit apprendre le parcours du message."
+          ]
+        }
+      ]
+    },
+    "suivi-chantier-reporting": {
+      "title": "Reporting chantier : écrire pour décider",
+      "excerpt": "Un compte rendu utile n'est pas un roman. Il aide le maître d'ouvrage à trancher vite.",
+      "lead": "Sur un chantier, l'information existe partout. Ce qui manque souvent, c'est une synthèse actionnable pour ceux qui portent la décision.",
+      "sections": [
+        {
+          "heading": "Ce que le MOA doit voir en 30 secondes",
+          "paragraphs": [
+            "Avancement, écarts critiques, décisions demandées. Tout le reste peut vivre en annexe. Un bon reporting respecte le temps du lecteur.",
+            "Les photos annotées valent parfois mieux qu'un paragraphe technique opaque."
+          ]
+        },
+        {
+          "heading": "Tracer sans noyer",
+          "paragraphs": [
+            "La traçabilité protège le projet. Elle ne doit pas transformer chaque visite en dossier illisible. Choisissez des jalons, pas une avalanche de détails."
+          ]
+        },
+        {
+          "heading": "Escalader tôt",
+          "paragraphs": [
+            "Un écart signalé tôt coûte moins cher qu'une non-conformité découverte en fin de phase. Le reporting sert aussi à créer ce réflexe."
+          ]
+        }
+      ]
+    },
+    "rythme-antenne-live": {
+      "title": "Tenir le rythme en direct",
+      "excerpt": "En antenne, le temps est un instrument. Voici comment le garder sans étouffer l'échange.",
+      "lead": "Le live ne pardonne pas l'hésitation prolongée. Mais il récompense l'écoute réelle - celle qui fait avancer l'interview sans la précipiter.",
+      "sections": [
+        {
+          "heading": "Le filet de timing",
+          "paragraphs": [
+            "Avant l'antenne, connaissez les segments, les durées et les sorties de secours. Improviser, oui - sans filet, non.",
+            "Une transition préparée sauve souvent une interview qui dérive."
+          ]
+        },
+        {
+          "heading": "Écouter pour relancer",
+          "paragraphs": [
+            "Les meilleures relances naissent d'un détail entendu, pas d'une fiche lue. Préparez des angles, pas des scripts figés."
+          ]
+        },
+        {
+          "heading": "Le silence utile",
+          "paragraphs": [
+            "Un silence bien placé laisse l'invité approfondir. Trop de silence vide l'antenne. Le dosage fait la signature."
+          ]
+        }
+      ]
+    },
+    "presence-corps-voix": {
+      "title": "Corps et voix : une même présence",
+      "excerpt": "La posture n'est pas du théâtre. C'est le support physique du message.",
+      "lead": "On sépare trop souvent le fond et la forme. Or le corps annonce le discours avant les premiers mots.",
+      "sections": [
+        {
+          "heading": "Ancrage avant volume",
+          "paragraphs": [
+            "Avant de projeter la voix, ancrez les appuis. Une voix stable naît d'un corps stable - pieds, bassin, respiration basse."
+          ]
+        },
+        {
+          "heading": "Le regard comme contact",
+          "paragraphs": [
+            "Balayer la salle n'est pas regarder. Choisissez des points de contact, tenez-les le temps d'une idée, puis passez."
+          ]
+        },
+        {
+          "heading": "Entraîner le couple",
+          "paragraphs": [
+            "Travaillez voix et geste ensemble. Sinon vous aurez une belle diction sur un corps qui contredit le message."
+          ]
+        }
+      ]
+    },
+    "coordination-moe-moa": {
+      "title": "Quand MOA et MOE ne parlent pas le même langage",
+      "excerpt": "L'ingénieur conseil traduit. Voici comment éviter les malentendus coûteux.",
+      "lead": "Sur un projet, les tensions naissent souvent d'un vocabulaire flou. Clarifier les rôles et les livrables, c'est déjà sécuriser l'ouvrage.",
+      "sections": [
+        {
+          "heading": "Nommer les décisions",
+          "paragraphs": [
+            "Qui tranche ? Sur quel critère ? Avec quel délai ? Sans ces réponses, chaque réunion recommence le même débat."
+          ]
+        },
+        {
+          "heading": "Interface technique",
+          "paragraphs": [
+            "Le conseil technique sert de pont : reformuler l'exigence du MOA en critères vérifiables pour la MOE, et remonter les alertes sans dramatiser inutilement."
+          ]
+        },
+        {
+          "heading": "Documenter les arbitrages",
+          "paragraphs": [
+            "Un arbitrage oral oublié revient en non-conformité. Une note courte, datée, partagée, change la dynamique du projet."
+          ]
+        }
+      ]
+    },
+    "ceremonie-protocole": {
+      "title": "Protocole et fluidité : le paradoxe du MC",
+      "excerpt": "Respecter le protocole sans figer la salle - l'équilibre d'une cérémonie réussie.",
+      "lead": "Une cérémonie officielle exige précision. Mais la précision sans chaleur devient mécanique. Le MC tient les deux.",
+      "sections": [
+        {
+          "heading": "Le script comme partition",
+          "paragraphs": [
+            "Le déroulé minute par minute n'étouffe pas l'improvisation : il la cadre. Vous savez où revenir quand un imprévu survient."
+          ]
+        },
+        {
+          "heading": "Coordonner les coulisses",
+          "paragraphs": [
+            "Régie, protocole, intervenants : le MC est le point de synchro. Un brief clair avant l'ouverture évite les silences gênants."
+          ]
+        },
+        {
+          "heading": "Le ton juste",
+          "paragraphs": [
+            "Ni trop solennel, ni trop familier. Le ton suit le lieu, le public et l'objet de la soirée - pas l'ego de l'animateur."
+          ]
+        }
+      ]
+    }
+  }
+}

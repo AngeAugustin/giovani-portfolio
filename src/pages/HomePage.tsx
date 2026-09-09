@@ -15,15 +15,15 @@ export function HomePage() {
     <>
       <Seo title={t('meta.title')} description={t('meta.description')} />
 
-      {/* Hero — mosaïque */}
+      {/* Hero - mosaïque */}
       <div className="bg-home-mosaic">
         <HomeHero />
       </div>
 
-      {/* Univers — section à part */}
+      {/* Univers - section à part */}
       <HomeDomainsPreview />
 
-      {/* Suite — mosaïque sous les bandes colorées */}
+      {/* Suite - mosaïque sous les bandes colorées */}
       <div className="bg-home-mosaic">
         <HomeFeaturedWork />
         <HomeTestimonials />

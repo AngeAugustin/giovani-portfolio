@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Services — Giovani HOUENOU",
+    "title": "Services - Giovani HOUENOU",
     "description": "Services en génie civil, animation TV & événementielle, et coaching en prise de parole."
   },
   "eyebrow": "Services",
   "title": "Ce que je propose",
-  "subtitle": "Des offres claires pour chaque univers — à combiner selon votre besoin.",
+  "subtitle": "Des offres claires pour chaque univers - à combiner selon votre besoin.",
   "items": {
     "s1": {
       "title": "Conseil & études techniques",
@@ -21,7 +21,7 @@
     },
     "s4": {
       "title": "Maîtrise de cérémonie",
-      "text": "Galas, conférences, cérémonies officielles — du brief au déroulé."
+      "text": "Galas, conférences, cérémonies officielles - du brief au déroulé."
     },
     "s5": {
       "title": "Coaching individuel",

@@ -22,9 +22,9 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://giovanihouenou.com/en/work"/>
   </url>
   <url>
-    <loc>https://giovanihouenou.com/fr/services</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://giovanihouenou.com/fr/services"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://giovanihouenou.com/en/services"/>
+    <loc>https://giovanihouenou.com/fr/blog</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giovanihouenou.com/fr/blog"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giovanihouenou.com/en/blog"/>
   </url>
   <url>
     <loc>https://giovanihouenou.com/fr/contact</loc>

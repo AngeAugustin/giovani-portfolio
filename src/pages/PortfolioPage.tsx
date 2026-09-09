@@ -19,7 +19,7 @@ import type { DomainId, Locale } from '@/types'
 const filters: Array<'all' | DomainId> = ['all', 'civil', 'media', 'coach']
 
 /**
- * Page Réalisations — structure alignée sur Projets Augustin :
+ * Page Réalisations - structure alignée sur Projets Augustin :
  * hero (retour + watermark + CTAs) → promesse → filtres → grille études de cas → CTA.
  */
 export function PortfolioPage() {

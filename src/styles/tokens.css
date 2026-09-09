@@ -1,15 +1,15 @@
-/* Design tokens — « Scène + Structure » */
+/* Design tokens - « Scène + Structure » */
 @theme {
-  /* Primary blue — authority / engineering */
+  /* Primary blue - authority / engineering */
   --color-primary-deep: #0b3d91;
   --color-primary: #1656c9;
   --color-primary-soft: #e8f0fe;
 
-  /* Accent orange — cue light / spotlight (5–10%) */
+  /* Accent orange - cue light / spotlight (5–10%) */
   --color-accent: #ff7a30;
   --color-accent-warm: #f5821f;
 
-  /* Stage — media moments, dark heroes */
+  /* Stage - media moments, dark heroes */
   --color-stage: #0a1628;
   --color-stage-elevated: #122033;
 
@@ -23,7 +23,7 @@
   --color-ink-muted: #6b7280;
   --color-border: #e6e8ec;
 
-  /* Type — Syne = présence scène / titres ; Figtree = corps lisible */
+  /* Type - Syne = présence scène / titres ; Figtree = corps lisible */
   --font-display: 'Syne', system-ui, sans-serif;
   --font-sans: 'Figtree', system-ui, sans-serif;
 
@@ -31,7 +31,7 @@
   --spacing-section-lg: 3.25rem;
   --spacing-gutter: 1.5rem;
 
-  /* Tighter editorial radii — less “SaaS card” */
+  /* Tighter editorial radii - less “SaaS card” */
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 0.875rem;

@@ -13,7 +13,7 @@ interface MediaFrameProps {
   drift?: boolean
 }
 
-/** Cadre média éditorial — plein cadre, pas de carte flottante. */
+/** Cadre média éditorial - plein cadre, pas de carte flottante. */
 export function MediaFrame({
   src,
   alt,

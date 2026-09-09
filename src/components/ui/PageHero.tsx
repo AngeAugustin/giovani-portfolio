@@ -13,7 +13,7 @@ interface PageHeroProps {
   /** Image de fond (tones dark) ou portrait inline (tone light). */
   imageUrl?: string
   /**
-   * Portrait à droite (MediaFrame) — hors flux, hauteur calée sur le hero
+   * Portrait à droite (MediaFrame) - hors flux, hauteur calée sur le hero
    * (texte) pour ne pas l’agrandir. Le fond reste visible autour.
    */
   sideImageUrl?: string
@@ -82,7 +82,7 @@ export function PageHero({
         />
       )}
 
-      {/* Cadre portrait — absolute dans le hero, n’influence pas la hauteur */}
+      {/* Cadre portrait - absolute dans le hero, n’influence pas la hauteur */}
       {showSidePortrait && (
         <div
           className={cn(

@@ -106,7 +106,7 @@
     text-wrap: balance;
   }
 
-  /* Orange cue light — signature vertical accent */
+  /* Orange cue light - signature vertical accent */
   .cue-light {
     width: 3px;
     border-radius: 999px;
@@ -166,7 +166,7 @@
     animation: media-drift 18s ease-in-out infinite alternate;
   }
 
-  /* Témoignages — défilement continu droite → gauche */
+  /* Témoignages - défilement continu droite → gauche */
   @keyframes marquee {
     from {
       transform: translate3d(0, 0, 0);
@@ -182,7 +182,7 @@
   }
 
   /*
-   * Accueil — mosaïque géométrique (carrelage / structure) + voile primaire transparent.
+   * Accueil - mosaïque géométrique (carrelage / structure) + voile primaire transparent.
    * SVG inline : losanges + joints, lisible sans asset externe.
    */
   .bg-home-mosaic {

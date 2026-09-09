@@ -1,4 +1,4 @@
-import type { DomainId, Project, ServiceItem, Testimonial } from '@/types'
+import type { BlogPost, DomainId, Project, ServiceItem, Testimonial } from '@/types'
 
 export const projects: Project[] = [
   {
@@ -85,6 +85,59 @@ export const services: ServiceItem[] = [
   { id: 's4', domain: 'media', icon: 'tv' },
   { id: 's5', domain: 'coach', icon: 'users' },
   { id: 's6', domain: 'coach', icon: 'sparkles' },
+]
+
+export const blogPosts: BlogPost[] = [
+  {
+    id: 'clarte-message-scene',
+    domain: 'coach',
+    date: '2025-11-12',
+    readMinutes: 6,
+    image:
+      'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1200&q=80&auto=format&fit=crop',
+    featured: true,
+  },
+  {
+    id: 'suivi-chantier-reporting',
+    domain: 'civil',
+    date: '2025-09-03',
+    readMinutes: 5,
+    image:
+      'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200&q=80&auto=format&fit=crop',
+  },
+  {
+    id: 'rythme-antenne-live',
+    domain: 'media',
+    date: '2025-07-18',
+    readMinutes: 7,
+    image:
+      'https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1200&q=80&auto=format&fit=crop',
+    featured: true,
+  },
+  {
+    id: 'presence-corps-voix',
+    domain: 'coach',
+    date: '2025-05-22',
+    readMinutes: 5,
+    image:
+      'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80&auto=format&fit=crop',
+  },
+  {
+    id: 'coordination-moe-moa',
+    domain: 'civil',
+    date: '2025-03-08',
+    readMinutes: 6,
+    image:
+      'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80&auto=format&fit=crop',
+  },
+  {
+    id: 'ceremonie-protocole',
+    domain: 'media',
+    date: '2025-01-14',
+    readMinutes: 4,
+    image:
+      'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200&q=80&auto=format&fit=crop',
+  },
 ]
 
 export const domainMeta: Record<

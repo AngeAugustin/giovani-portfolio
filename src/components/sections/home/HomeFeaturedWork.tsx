@@ -18,7 +18,7 @@ export function HomeFeaturedWork() {
 
   return (
     <Section tone="primary" flush>
-      {/* Atmosphere full-bleed — bleu primaire + touche accent */}
+      {/* Atmosphere full-bleed - bleu primaire + touche accent */}
       <div
         aria-hidden
         className="pointer-events-none absolute inset-0"

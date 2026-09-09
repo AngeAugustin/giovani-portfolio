@@ -1,14 +1,23 @@
 {
   "meta": {
-    "title": "Contact — Giovani HOUENOU",
+    "title": "Contact - Giovani HOUENOU",
     "description": "Contactez Giovani HOUENOU pour un projet BTP, une animation ou un coaching."
   },
+  "watermark": "HELLO",
+  "backHome": "Retour à l'accueil",
   "eyebrow": "Contact",
   "title": "Parlons de votre projet",
-  "subtitle": "Un message suffit pour démarrer. Réponse sous 48h ouvrées.",
+  "subtitle": "Un échange suffit pour cadrer le besoin - chantier, plateau ou prise de parole. Réponse sous 48h ouvrées.",
+  "ctaForm": "Écrire un message",
+  "ctaEmail": "Envoyer un email",
+  "channelsTitle": "Coordonnées",
+  "channelsIntro": "Choisissez le canal qui vous convient - ou utilisez le formulaire pour un brief structuré.",
+  "formTitle": "Envoyer un message",
+  "formSubtitle": "Indiquez le domaine concerné et décrivez votre besoin. Je reviens vers vous avec une proposition claire.",
+  "responseNote": "Réponse sous 48h ouvrées",
   "info": {
     "email": "hello@giovanihouenou.com",
-    "phone": "+229 00 00 00 00",
+    "phone": "+229 52 25 84 41",
     "location": "Cotonou, Bénin",
     "availability": "Disponible pour missions nationales et internationales",
     "emailLabel": "Email",
@@ -19,16 +28,16 @@
     "name": "Nom complet",
     "email": "Email",
     "subject": "Sujet",
-    "domain": "Univers concerné",
+    "domain": "Domaine concerné",
     "domainPlaceholder": "Sélectionner…",
     "message": "Message",
-    "success": "Message envoyé. Merci — je vous recontacte rapidement.",
+    "success": "Message envoyé. Merci - je vous recontacte rapidement.",
     "error": "Une erreur est survenue. Réessayez ou écrivez-moi directement.",
     "errors": {
       "name": "Indiquez votre nom (2 caractères min.).",
       "email": "Email invalide.",
       "subject": "Sujet requis.",
-      "domain": "Choisissez un univers.",
+      "domain": "Choisissez un domaine.",
       "message": "Message trop court (20 caractères min.)."
     }
   }

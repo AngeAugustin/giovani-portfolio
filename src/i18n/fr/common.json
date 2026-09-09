@@ -6,6 +6,7 @@
     "about": "À propos",
     "domains": "Domaines",
     "portfolio": "Réalisations",
+    "blog": "Blog",
     "contact": "Contact",
     "openMenu": "Ouvrir le menu",
     "closeMenu": "Fermer le menu"
@@ -22,7 +23,7 @@
   },
   "footer": {
     "rights": "Tous droits réservés.",
-    "legal": "Mentions légales",
+    "credit": "Réalisé par AF",
     "location": "Cotonou, Bénin",
     "navTitle": "Navigation",
     "domainsTitle": "Univers",
@@ -35,7 +36,7 @@
     "all": "Tous"
   },
   "seo": {
-    "siteName": "Giovani HOUENOU — Portfolio",
+    "siteName": "Giovani HOUENOU - Portfolio",
     "defaultDescription": "Ingénieur en génie civil, présentateur TV, maître de cérémonie et coach en prise de parole en public basé au Bénin."
   },
   "loader": {

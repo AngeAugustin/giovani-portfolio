@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "Blog - Giovani HOUENOU",
+    "description": "Notes and insights on civil engineering, stage craft and public speaking."
+  },
+  "watermark": "NOTES",
+  "backHome": "Back to home",
+  "eyebrow": "Blog",
+  "title": "Notes from site and stage",
+  "subtitle": "Practical reflections on structure, presence and voice - for those who build, host and speak.",
+  "ctaContact": "Get in touch",
+  "ctaRead": "Read article",
+  "filterLabel": "Filter by domain",
+  "empty": "No articles in this category.",
+  "readTime": "{{count}} min read",
+  "detail": {
+    "back": "All articles",
+    "domain": "Domain",
+    "date": "Published",
+    "related": "Keep reading",
+    "ctaTitle": "A topic to explore together?",
+    "ctaText": "Let’s talk about your context - site, stage or speaking."
+  },
+  "items": {
+    "clarte-message-scene": {
+      "title": "A clear message before you take the stage",
+      "excerpt": "Before nerves and posture, there is one sentence. Here’s how to find it and hold it.",
+      "lead": "Many talks fail before the first mic. Not from a lack of charisma - from a lack of a single message.",
+      "sections": [
+        {
+          "heading": "One intention",
+          "paragraphs": [
+            "Before working on voice or eye contact, ask: what should the audience remember in one sentence? If you can’t say it, they won’t either.",
+            "That sentence isn’t a marketing slogan. It’s the thread that guides every story, transition and silence."
+          ]
+        },
+        {
+          "heading": "Structure without rigidity",
+          "paragraphs": [
+            "A simple structure is enough: context, stakes, proposal, call. The rest varies by format - pitch, panel or speech.",
+            "The common mistake: saying everything. Presence starts when you choose to cut."
+          ]
+        },
+        {
+          "heading": "Rehearse in real conditions",
+          "paragraphs": [
+            "Rehearsing at a desk doesn’t prepare you for live. Time it, film it, change rooms. The body must learn the path of the message."
+          ]
+        }
+      ]
+    },
+    "suivi-chantier-reporting": {
+      "title": "Site reporting: write to decide",
+      "excerpt": "A useful report isn’t a novel. It helps the owner decide quickly.",
+      "lead": "On a site, information is everywhere. What’s often missing is an actionable summary for those who carry decisions.",
+      "sections": [
+        {
+          "heading": "What the owner must see in 30 seconds",
+          "paragraphs": [
+            "Progress, critical gaps, decisions requested. Everything else can live in an annex. Good reporting respects the reader’s time.",
+            "Annotated photos can beat an opaque technical paragraph."
+          ]
+        },
+        {
+          "heading": "Trace without drowning",
+          "paragraphs": [
+            "Traceability protects the project. It shouldn’t turn every visit into an unreadable file. Choose milestones, not a flood of detail."
+          ]
+        },
+        {
+          "heading": "Escalate early",
+          "paragraphs": [
+            "A gap flagged early costs less than a non-conformity found at the end of a phase. Reporting also builds that reflex."
+          ]
+        }
+      ]
+    },
+    "rythme-antenne-live": {
+      "title": "Holding the pace live on air",
+      "excerpt": "On air, time is an instrument. Here’s how to keep it without smothering the exchange.",
+      "lead": "Live doesn’t forgive long hesitation. But it rewards real listening - the kind that moves an interview forward without rushing it.",
+      "sections": [
+        {
+          "heading": "The timing net",
+          "paragraphs": [
+            "Before going live, know the segments, durations and escape hatches. Improvise, yes - without a net, no.",
+            "A prepared transition often saves an interview that drifts."
+          ]
+        },
+        {
+          "heading": "Listen to relaunch",
+          "paragraphs": [
+            "The best follow-ups come from a detail you heard, not a sheet you read. Prepare angles, not rigid scripts."
+          ]
+        },
+        {
+          "heading": "Useful silence",
+          "paragraphs": [
+            "A well-placed silence lets a guest go deeper. Too much silence empties the show. Dose makes the signature."
+          ]
+        }
+      ]
+    },
+    "presence-corps-voix": {
+      "title": "Body and voice: one presence",
+      "excerpt": "Posture isn’t theatre. It’s the physical support of the message.",
+      "lead": "We separate content and delivery too often. Yet the body announces the talk before the first words.",
+      "sections": [
+        {
+          "heading": "Anchor before volume",
+          "paragraphs": [
+            "Before projecting the voice, anchor your stance. A stable voice comes from a stable body - feet, hips, low breath."
+          ]
+        },
+        {
+          "heading": "Eye contact as connection",
+          "paragraphs": [
+            "Scanning the room isn’t looking. Choose contact points, hold them for one idea, then move on."
+          ]
+        },
+        {
+          "heading": "Train the pair",
+          "paragraphs": [
+            "Work voice and gesture together. Otherwise you’ll get fine diction on a body that contradicts the message."
+          ]
+        }
+      ]
+    },
+    "coordination-moe-moa": {
+      "title": "When owner and design team don’t speak the same language",
+      "excerpt": "The consulting engineer translates. Here’s how to avoid costly misunderstandings.",
+      "lead": "On a project, tension often starts with fuzzy vocabulary. Clarifying roles and deliverables already secures the work.",
+      "sections": [
+        {
+          "heading": "Name the decisions",
+          "paragraphs": [
+            "Who decides? On what criteria? With what deadline? Without answers, every meeting restarts the same debate."
+          ]
+        },
+        {
+          "heading": "Technical interface",
+          "paragraphs": [
+            "Technical advisory is a bridge: rephrase the owner’s need into verifiable criteria for the design team, and escalate alerts without useless drama."
+          ]
+        },
+        {
+          "heading": "Document arbitrations",
+          "paragraphs": [
+            "A forgotten oral call comes back as a non-conformity. A short dated shared note changes the project dynamic."
+          ]
+        }
+      ]
+    },
+    "ceremonie-protocole": {
+      "title": "Protocol and flow: the MC paradox",
+      "excerpt": "Honour protocol without freezing the room - the balance of a successful ceremony.",
+      "lead": "An official ceremony demands precision. But precision without warmth becomes mechanical. The MC holds both.",
+      "sections": [
+        {
+          "heading": "The script as a score",
+          "paragraphs": [
+            "A minute-by-minute run of show doesn’t kill improvisation: it frames it. You know where to return when something unexpected happens."
+          ]
+        },
+        {
+          "heading": "Coordinate backstage",
+          "paragraphs": [
+            "Control room, protocol, speakers: the MC is the sync point. A clear brief before opening avoids awkward silences."
+          ]
+        },
+        {
+          "heading": "The right tone",
+          "paragraphs": [
+            "Neither too solemn nor too casual. Tone follows the venue, the audience and the purpose of the evening - not the host’s ego."
+          ]
+        }
+      ]
+    }
+  }
+}

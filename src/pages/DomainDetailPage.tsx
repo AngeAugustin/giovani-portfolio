@@ -54,7 +54,7 @@ const domainRoutes = {
 const allDomains: DomainId[] = ['civil', 'media', 'coach']
 
 /**
- * Page détail domaine — structure type Augustin (aperçu, services, livrables,
+ * Page détail domaine - structure type Augustin (aperçu, services, livrables,
  * approche, outils, idéal pour, projets) avec PageHero Giovani conservé.
  */
 export function DomainDetailPage({ domain }: DomainDetailPageProps) {
@@ -84,7 +84,7 @@ export function DomainDetailPage({ domain }: DomainDetailPageProps) {
   return (
     <>
       <Seo
-        title={`${t(`domains:${domain}.title`)} — Giovani HOUENOU`}
+        title={`${t(`domains:${domain}.title`)} - Giovani HOUENOU`}
         description={t(`domains:${domain}.intro`)}
       />
 
@@ -110,7 +110,7 @@ export function DomainDetailPage({ domain }: DomainDetailPageProps) {
         </div>
       </PageHero>
 
-      {/* Aperçu — stats + texte */}
+      {/* Aperçu - stats + texte */}
       <Section>
         <ScrollReveal>
           <div className="flex flex-wrap items-center justify-between gap-4 border-b border-border pb-6">

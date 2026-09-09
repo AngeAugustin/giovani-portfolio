@@ -7,7 +7,7 @@ interface EyebrowProps {
   tone?: 'accent' | 'primary' | 'muted' | 'onDark'
 }
 
-/** Label éditorial tracking — remplace les pills Badge pour les titres de section. */
+/** Label éditorial tracking - remplace les pills Badge pour les titres de section. */
 export function Eyebrow({ children, className, tone = 'accent' }: EyebrowProps) {
   const tones = {
     accent: 'text-accent-warm',

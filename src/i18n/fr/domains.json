@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Domaines d'expertise — Giovani HOUENOU",
+    "title": "Domaines d'expertise - Giovani HOUENOU",
     "description": "Explorez les trois univers de Giovani : génie civil, TV & MC, coaching en prise de parole."
   },
   "watermark": "UNIVERS",
   "eyebrow": "Domaines",
   "backHome": "Retour à l'accueil",
   "title": "Comment je peux vous accompagner",
-  "subtitle": "Trois univers complémentaires pour construire, communiquer et inspirer — du chantier au plateau.",
-  "gridIntro": "Choisissez un domaine pour explorer le contenu dédié — même exigence de présence, accents différenciés.",
+  "subtitle": "Trois univers complémentaires pour construire, communiquer et inspirer - du chantier au plateau.",
+  "gridIntro": "Choisissez un domaine pour explorer le contenu dédié - même exigence de présence, accents différenciés.",
   "explore": "Explorer",
   "civil": {
     "title": "Génie Civil",
@@ -16,7 +16,7 @@
     "intro": "Conception, suivi de chantier et conseil technique pour des ouvrages fiables et durables au Bénin et en Afrique de l'Ouest.",
     "index": "01",
     "available": "Disponible",
-    "overview": "J’accompagne maîtres d’ouvrage et équipes projet sur la conception, le contrôle et le suivi d’ouvrages. Mon approche allie rigueur technique, présence terrain et clarté dans le reporting — pour des livrables fiables, conformes et durables.",
+    "overview": "J’accompagne maîtres d’ouvrage et équipes projet sur la conception, le contrôle et le suivi d’ouvrages. Mon approche allie rigueur technique, présence terrain et clarté dans le reporting - pour des livrables fiables, conformes et durables.",
     "highlights": [
       "Études techniques et dimensionnement",
       "Suivi de réalisation BTP",
@@ -76,7 +76,7 @@
   "media": {
     "title": "TV & Maître de Cérémonie",
     "tagline": "La scène comme terrain",
-    "intro": "Animation d'émissions, galas, conférences et cérémonies officielles — une présence qui porte le rythme et l'émotion.",
+    "intro": "Animation d'émissions, galas, conférences et cérémonies officielles - une présence qui porte le rythme et l'émotion.",
     "index": "02",
     "available": "Disponible",
     "overview": "Je conduis antenne et cérémonies avec une présence qui structure le déroulé, met les intervenants en valeur et garde le public engagé. Du brief au plateau, je livre une animation claire, élégante et maîtrisée.",
@@ -139,10 +139,10 @@
   "coach": {
     "title": "Coach Prise de Parole",
     "tagline": "La voix comme levier",
-    "intro": "Ateliers et accompagnements individuels pour parler avec clarté, impact et authenticité — en public comme en entreprise.",
+    "intro": "Ateliers et accompagnements individuels pour parler avec clarté, impact et authenticité - en public comme en entreprise.",
     "index": "03",
     "available": "Disponible",
-    "overview": "J’aide dirigeants, porte-parole et équipes à structurer leur message, gérer le trac et incarner une présence crédible. Coaching individuel ou ateliers collectifs — toujours ancré dans des situations réelles.",
+    "overview": "J’aide dirigeants, porte-parole et équipes à structurer leur message, gérer le trac et incarner une présence crédible. Coaching individuel ou ateliers collectifs - toujours ancré dans des situations réelles.",
     "highlights": [
       "Coaching individuel dirigeants",
       "Ateliers entreprise & institutions",
@@ -169,7 +169,7 @@
       },
       {
         "title": "Posture & présence",
-        "text": "Voix, regard, corps — outils concrets pour incarner le discours."
+        "text": "Voix, regard, corps - outils concrets pour incarner le discours."
       },
       {
         "title": "Gestion du trac",
@@ -210,6 +210,6 @@
     "related": "Projets liés",
     "otherDomains": "Autres univers",
     "ctaTitle": "Un projet dans cet univers ?",
-    "ctaText": "Parlons de votre besoin — chantier, plateau ou prise de parole — et construisons l’accompagnement adapté."
+    "ctaText": "Parlons de votre besoin - chantier, plateau ou prise de parole - et construisons l’accompagnement adapté."
   }
 }

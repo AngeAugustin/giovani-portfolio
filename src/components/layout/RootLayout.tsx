@@ -12,7 +12,7 @@ import { pageTransition } from '@/lib/animations'
 import type { Locale } from '@/types'
 
 /**
- * Shell public — même structure que Rotary `PublicLayout` :
+ * Shell public - même structure que Rotary `PublicLayout` :
  * SkipLink → Header → main flex-1 → Footer.
  */
 export function RootLayout() {

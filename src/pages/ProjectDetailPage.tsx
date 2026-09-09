@@ -12,7 +12,7 @@ import { localizedPath } from '@/router/paths'
 import type { Locale } from '@/types'
 
 /**
- * Étude de cas projet — récit détaillé, approche, livrables, tags, projets liés.
+ * Étude de cas projet - récit détaillé, approche, livrables, tags, projets liés.
  */
 export function ProjectDetailPage() {
   const { t } = useTranslation(['portfolio', 'common'])
@@ -48,7 +48,7 @@ export function ProjectDetailPage() {
 
   return (
     <>
-      <Seo title={`${title} — Giovani HOUENOU`} description={t(`${base}.summary`)} />
+      <Seo title={`${title} - Giovani HOUENOU`} description={t(`${base}.summary`)} />
 
       <DetailLayout
         backTo={localizedPath('portfolio', locale)}

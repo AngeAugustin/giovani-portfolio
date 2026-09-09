@@ -34,7 +34,7 @@ const domains = [
 ]
 
 /**
- * Page Domaines — structure alignée sur Services Augustin :
+ * Page Domaines - structure alignée sur Services Augustin :
  * hero (retour + badge + watermark + CTAs) → grille de cartes → CTA.
  */
 export function DomainsPage() {

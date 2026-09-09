@@ -35,7 +35,7 @@ const domains = [
   },
 ]
 
-/** Section Univers — bandeau autonome (fond blanc opaque), distinct du hero mosaïque. */
+/** Section Univers - bandeau autonome (fond blanc opaque), distinct du hero mosaïque. */
 export function HomeDomainsPreview() {
   const { t } = useTranslation(['home', 'common', 'domains'])
   const { lang } = useParams()

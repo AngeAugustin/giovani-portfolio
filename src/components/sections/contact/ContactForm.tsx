@@ -34,7 +34,7 @@ export function ContactForm() {
 
   const onSubmit = async (data: FormValues) => {
     try {
-      // Mock send — ready to wire Resend / EmailJS
+      // Mock send - ready to wire Resend / EmailJS
       await new Promise((r) => setTimeout(r, 900))
       console.info('Contact form submission', data)
       setStatus('success')
@@ -45,46 +45,57 @@ export function ContactForm() {
   }
 
   const fieldClass =
-    'w-full rounded-[var(--radius-md)] border border-border bg-surface px-4 py-3 text-ink outline-none transition focus:border-primary focus:ring-2 focus:ring-primary/20'
+    'w-full border border-border bg-surface-muted/40 px-4 py-3.5 text-ink outline-none transition placeholder:text-ink-muted/60 focus:border-primary focus:bg-surface focus:ring-2 focus:ring-primary/15'
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-5" noValidate>
+    <form onSubmit={handleSubmit(onSubmit)} className="space-y-6" noValidate>
       <div className="grid gap-5 md:grid-cols-2">
         <div>
-          <label htmlFor="name" className="mb-1.5 block text-sm font-medium text-ink-soft">
+          <label htmlFor="name" className="mb-2 block text-sm font-medium text-ink-soft">
             {t('contact:form.name')}
           </label>
-          <input id="name" className={fieldClass} {...register('name')} />
+          <input id="name" autoComplete="name" className={fieldClass} {...register('name')} />
           {errors.name && (
-            <p className="mt-1 text-sm text-accent">{t('contact:form.errors.name')}</p>
+            <p className="mt-1.5 text-sm text-accent">{t('contact:form.errors.name')}</p>
           )}
         </div>
         <div>
-          <label htmlFor="email" className="mb-1.5 block text-sm font-medium text-ink-soft">
+          <label htmlFor="email" className="mb-2 block text-sm font-medium text-ink-soft">
             {t('contact:form.email')}
           </label>
-          <input id="email" type="email" className={fieldClass} {...register('email')} />
+          <input
+            id="email"
+            type="email"
+            autoComplete="email"
+            className={fieldClass}
+            {...register('email')}
+          />
           {errors.email && (
-            <p className="mt-1 text-sm text-accent">{t('contact:form.errors.email')}</p>
+            <p className="mt-1.5 text-sm text-accent">{t('contact:form.errors.email')}</p>
           )}
         </div>
       </div>
 
       <div className="grid gap-5 md:grid-cols-2">
         <div>
-          <label htmlFor="subject" className="mb-1.5 block text-sm font-medium text-ink-soft">
+          <label htmlFor="subject" className="mb-2 block text-sm font-medium text-ink-soft">
             {t('contact:form.subject')}
           </label>
           <input id="subject" className={fieldClass} {...register('subject')} />
           {errors.subject && (
-            <p className="mt-1 text-sm text-accent">{t('contact:form.errors.subject')}</p>
+            <p className="mt-1.5 text-sm text-accent">{t('contact:form.errors.subject')}</p>
           )}
         </div>
         <div>
-          <label htmlFor="domain" className="mb-1.5 block text-sm font-medium text-ink-soft">
+          <label htmlFor="domain" className="mb-2 block text-sm font-medium text-ink-soft">
             {t('contact:form.domain')}
           </label>
-          <select id="domain" className={cn(fieldClass, 'bg-surface')} {...register('domain')} defaultValue="">
+          <select
+            id="domain"
+            className={cn(fieldClass, 'bg-surface-muted/40')}
+            {...register('domain')}
+            defaultValue=""
+          >
             <option value="" disabled>
               {t('contact:form.domainPlaceholder')}
             </option>
@@ -93,35 +104,37 @@ export function ContactForm() {
             <option value="coach">{t('common:domains.coach')}</option>
           </select>
           {errors.domain && (
-            <p className="mt-1 text-sm text-accent">{t('contact:form.errors.domain')}</p>
+            <p className="mt-1.5 text-sm text-accent">{t('contact:form.errors.domain')}</p>
           )}
         </div>
       </div>
 
       <div>
-        <label htmlFor="message" className="mb-1.5 block text-sm font-medium text-ink-soft">
+        <label htmlFor="message" className="mb-2 block text-sm font-medium text-ink-soft">
           {t('contact:form.message')}
         </label>
-        <textarea id="message" rows={5} className={fieldClass} {...register('message')} />
+        <textarea id="message" rows={6} className={cn(fieldClass, 'resize-y')} {...register('message')} />
         {errors.message && (
-          <p className="mt-1 text-sm text-accent">{t('contact:form.errors.message')}</p>
+          <p className="mt-1.5 text-sm text-accent">{t('contact:form.errors.message')}</p>
         )}
       </div>
 
-      <Button type="submit" size="lg" className="w-full touch-manipulation sm:w-auto" disabled={isSubmitting}>
-        {isSubmitting ? t('common:cta.sending') : t('common:cta.send')}
-      </Button>
+      <div className="flex flex-col gap-4 border-t border-border pt-6 sm:flex-row sm:items-center sm:justify-between">
+        <Button type="submit" size="lg" className="touch-manipulation" disabled={isSubmitting}>
+          {isSubmitting ? t('common:cta.sending') : t('common:cta.send')}
+        </Button>
 
-      {status === 'success' && (
-        <p className="text-sm font-medium text-primary" role="status">
-          {t('contact:form.success')}
-        </p>
-      )}
-      {status === 'error' && (
-        <p className="text-sm font-medium text-accent" role="alert">
-          {t('contact:form.error')}
-        </p>
-      )}
+        {status === 'success' && (
+          <p className="text-sm font-medium text-primary" role="status">
+            {t('contact:form.success')}
+          </p>
+        )}
+        {status === 'error' && (
+          <p className="text-sm font-medium text-accent" role="alert">
+            {t('contact:form.error')}
+          </p>
+        )}
+      </div>
     </form>
   )
 }

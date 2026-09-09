@@ -31,7 +31,7 @@ interface BandHeaderProps {
   subtitle: string
 }
 
-/** En-tête de bande façon Augustin — badge + watermark + titre centré. */
+/** En-tête de bande façon Augustin - badge + watermark + titre centré. */
 function BandHeader({ watermark, eyebrow, title, subtitle }: BandHeaderProps) {
   return (
     <ScrollReveal className="relative mb-10 text-center md:mb-12">
@@ -107,7 +107,7 @@ function TimelineEntry({
 function TimelineList({ children }: { children: ReactNode }) {
   return (
     <div className="relative mx-auto max-w-5xl">
-      {/* Rail vertical — timeline */}
+      {/* Rail vertical - timeline */}
       <div
         className="absolute bottom-4 left-[5px] top-4 w-0.5 -translate-x-1/2 rounded-full bg-primary/30"
         aria-hidden
@@ -156,7 +156,7 @@ export function AboutPage() {
       <Seo title={t('about:meta.title')} description={t('about:meta.description')} />
 
       <div className="bg-home-mosaic">
-        {/* Hero — texte à gauche, portrait à droite */}
+        {/* Hero - texte à gauche, portrait à droite */}
         <section className="relative overflow-hidden pb-8 pt-10 sm:pb-10 sm:pt-12 lg:pb-12 lg:pt-14">
           <Container className="relative">
             <Link
@@ -218,7 +218,7 @@ export function AboutPage() {
           </Container>
         </section>
 
-        {/* Récit + stats — rapproché du hero */}
+        {/* Récit + stats - rapproché du hero */}
         <section className="pb-[var(--spacing-section)] pt-4 md:pb-[var(--spacing-section-lg)] md:pt-6">
           <Container>
             <ScrollReveal className="grid gap-5 text-base leading-relaxed text-ink-soft sm:text-lg">

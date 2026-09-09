@@ -8,7 +8,7 @@ interface ScrollRevealProps extends Omit<HTMLMotionProps<'div'>, 'children'> {
   delay?: number
 }
 
-/** Reveal au scroll — même API que Rotary `ScrollReveal`. */
+/** Reveal au scroll - même API que Rotary `ScrollReveal`. */
 export function ScrollReveal({ children, className, delay = 0, ...props }: ScrollRevealProps) {
   const reduce = useReducedMotion()
 

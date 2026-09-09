@@ -7,7 +7,7 @@ import { fadeUp, viewportOnce } from '@/lib/animations'
 import { localizedPath } from '@/router/paths'
 import type { Locale } from '@/types'
 
-/** CTA full-bleed — pas une carte inset. */
+/** CTA full-bleed - pas une carte inset. */
 export function HomeCtaBand() {
   const { t } = useTranslation(['home', 'common'])
   const { lang } = useParams()

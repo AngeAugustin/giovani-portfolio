@@ -10,7 +10,7 @@ import { localizedPath } from '@/router/paths'
 import type { Locale } from '@/types'
 
 /**
- * Hero centré — tagline en H1 monumental, marque réservée au header.
+ * Hero centré - tagline en H1 monumental, marque réservée au header.
  */
 export function HomeHero() {
   const { t } = useTranslation(['home', 'common'])

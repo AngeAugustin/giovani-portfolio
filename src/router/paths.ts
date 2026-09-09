@@ -1,6 +1,6 @@
 import type { Locale } from '@/types'
 
-/** Translated path segments per locale — mirrors augustinfachehoun.pro bilingual slugs */
+/** Translated path segments per locale - mirrors augustinfachehoun.pro bilingual slugs */
 export const routes = {
   home: { fr: '', en: '' },
   about: { fr: 'a-propos', en: 'about' },
@@ -10,6 +10,8 @@ export const routes = {
   domainCoach: { fr: 'domaines/coaching', en: 'domains/speaking-coach' },
   portfolio: { fr: 'realisations', en: 'work' },
   project: { fr: 'realisations', en: 'work' },
+  blog: { fr: 'blog', en: 'blog' },
+  post: { fr: 'blog', en: 'blog' },
   contact: { fr: 'contact', en: 'contact' },
 } as const
 
@@ -43,6 +45,7 @@ export function switchLocalePath(pathname: string, nextLocale: Locale): string {
     'speaking-coach': { fr: 'coaching', en: 'speaking-coach' },
     realisations: { fr: 'realisations', en: 'work' },
     work: { fr: 'realisations', en: 'work' },
+    blog: { fr: 'blog', en: 'blog' },
     services: { fr: 'services', en: 'services' },
     contact: { fr: 'contact', en: 'contact' },
   }

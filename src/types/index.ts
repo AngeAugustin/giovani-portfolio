@@ -16,6 +16,15 @@ export interface Project {
   featured?: boolean
 }
 
+export interface BlogPost {
+  id: string
+  domain: DomainId
+  date: string
+  readMinutes: number
+  image: string
+  featured?: boolean
+}
+
 export interface Testimonial {
   id: string
   domain: DomainId

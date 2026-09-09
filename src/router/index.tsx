@@ -21,6 +21,12 @@ const PortfolioPage = lazy(() =>
 const ProjectDetailPage = lazy(() =>
   import('@/pages/ProjectDetailPage').then((m) => ({ default: m.ProjectDetailPage })),
 )
+const BlogPage = lazy(() =>
+  import('@/pages/BlogPage').then((m) => ({ default: m.BlogPage })),
+)
+const BlogDetailPage = lazy(() =>
+  import('@/pages/BlogDetailPage').then((m) => ({ default: m.BlogDetailPage })),
+)
 const ContactPage = lazy(() =>
   import('@/pages/ContactPage').then((m) => ({ default: m.ContactPage })),
 )
@@ -68,6 +74,9 @@ export function AppRouter() {
           <Route path="work" element={<PortfolioPage />} />
           <Route path="realisations/:id" element={<ProjectDetailPage />} />
           <Route path="work/:id" element={<ProjectDetailPage />} />
+
+          <Route path="blog" element={<BlogPage />} />
+          <Route path="blog/:id" element={<BlogDetailPage />} />
 
           <Route path="services" element={<ServicesRedirect />} />
           <Route path="contact" element={<ContactPage />} />

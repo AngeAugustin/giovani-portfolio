@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "À propos — Giovani HOUENOU",
+    "title": "À propos - Giovani HOUENOU",
     "description": "Parcours, expertises et vision de Giovani HOUENOU : ingénieur en génie civil, présentateur TV & MC, coach en prise de parole."
   },
   "watermark": "ABOUT",
   "eyebrow": "À propos",
   "backHome": "Retour à l'accueil",
   "title": "À l'intersection de la structure, de la scène et de la voix",
-  "lead": "Ingénieur en génie civil, présentateur TV & maître de cérémonie, coach en prise de parole — une présence unique au service de vos projets.",
+  "lead": "Ingénieur en génie civil, présentateur TV & maître de cérémonie, coach en prise de parole - une présence unique au service de vos projets.",
   "story": {
     "p1": "Formé en génie civil, Giovani a appris à lire le réel comme un système : charges, contraintes, équilibre. Cette même rigueur nourrit aujourd'hui sa présence médiatique et sa méthode de coaching.",
-    "p2": "Présentateur TV et maître de cérémonie, il transforme chaque prise de parole en expérience mémorable — précision du rythme, chaleur humaine, maîtrise du silence.",
+    "p2": "Présentateur TV et maître de cérémonie, il transforme chaque prise de parole en expérience mémorable - précision du rythme, chaleur humaine, maîtrise du silence.",
     "p3": "En tant que coach, il accompagne dirigeants, créateurs et jeunes talents à trouver une voix claire, crédible et incarnée."
   },
   "stats": [
@@ -23,28 +23,28 @@
     "watermark": "EXPÉRIENCE",
     "eyebrow": "Expérience",
     "title": "Parcours professionnel",
-    "subtitle": "Une chronologie de rôles, d'impact et de présence — du chantier au plateau, de la structure à la voix.",
+    "subtitle": "Une chronologie de rôles, d'impact et de présence - du chantier au plateau, de la structure à la voix.",
     "items": [
       {
-        "period": "2022 — Aujourd'hui",
+        "period": "2022 - Aujourd'hui",
         "role": "Coach en prise de parole en public",
         "org": "Indépendant",
         "location": "Cotonou, Bénin",
-        "text": "Accompagnement de dirigeants, équipes commerciales et jeunes talents. Ateliers COMEX, pitch et prise de parole sous pression — méthode claire : structure du message, présence corporelle, feedbacks actionnables."
+        "text": "Accompagnement de dirigeants, équipes commerciales et jeunes talents. Ateliers COMEX, pitch et prise de parole sous pression - méthode claire : structure du message, présence corporelle, feedbacks actionnables."
       },
       {
-        "period": "2018 — Aujourd'hui",
+        "period": "2018 - Aujourd'hui",
         "role": "Présentateur TV & Maître de cérémonie",
         "org": "Plateaux nationaux & événementiel",
         "location": "Bénin",
-        "text": "Animation d'émissions, cérémonies et événements corporate. Conduite d'interviews et gestion du rythme en direct — signature scénique : précision, chaleur, élégance."
+        "text": "Animation d'émissions, cérémonies et événements corporate. Conduite d'interviews et gestion du rythme en direct - signature scénique : précision, chaleur, élégance."
       },
       {
-        "period": "2015 — Aujourd'hui",
+        "period": "2015 - Aujourd'hui",
         "role": "Ingénieur en génie civil",
         "org": "Projets BTP & bureaux d'études",
         "location": "Bénin",
-        "text": "Appui technique sur ouvrages, chantiers et suivi d'exécution. Coordination avec maîtres d'ouvrage et parties prenantes — rigueur structurelle appliquée à chaque livraison."
+        "text": "Appui technique sur ouvrages, chantiers et suivi d'exécution. Coordination avec maîtres d'ouvrage et parties prenantes - rigueur structurelle appliquée à chaque livraison."
       }
     ]
   },
@@ -57,13 +57,13 @@
       {
         "period": "2015",
         "role": "Diplôme d'ingénieur en génie civil",
-        "org": "École d'ingénieurs — Bénin",
+        "org": "École d'ingénieurs - Bénin",
         "location": "Bénin",
         "note": "Mention Bien",
         "text": "Formation en structures, matériaux et conduite de projets d'ouvrages."
       },
       {
-        "period": "2018 — 2019",
+        "period": "2018 - 2019",
         "role": "Formation à la prise de parole & média training",
         "org": "Ateliers professionnels",
         "location": "Cotonou, Bénin",
@@ -128,7 +128,7 @@
     "title": "Ce qui guide le travail",
     "subtitle": "Quatre piliers qui relient le chantier, le plateau et la salle de formation.",
     "items": [
-      { "title": "Rigueur", "text": "Chaque détail compte — sur un plan comme sur un script." },
+      { "title": "Rigueur", "text": "Chaque détail compte - sur un plan comme sur un script." },
       { "title": "Présence", "text": "Être là, pleinement, pour le public et le projet." },
       { "title": "Transmission", "text": "Partager des outils concrets, pas des slogans." },
       { "title": "Excellence", "text": "Viser le niveau professionnel, à chaque intervention." }
@@ -138,7 +138,7 @@
     "watermark": "CV",
     "eyebrow": "CV",
     "title": "Télécharger mon CV",
-    "subtitle": "Parcours, expertises et réalisations — prêt à partager avec votre équipe.",
+    "subtitle": "Parcours, expertises et réalisations - prêt à partager avec votre équipe.",
     "cardText": "Document PDF synthétique pour opportunités professionnelles, partenariats et collaborations.",
     "button": "Télécharger le PDF"
   }

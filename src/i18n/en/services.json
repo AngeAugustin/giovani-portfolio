@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Services — Giovani HOUENOU",
+    "title": "Services - Giovani HOUENOU",
     "description": "Services in civil engineering, TV & event hosting, and public speaking coaching."
   },
   "eyebrow": "Services",
   "title": "What I offer",
-  "subtitle": "Clear offers for each universe — combine them to match your need.",
+  "subtitle": "Clear offers for each universe - combine them to match your need.",
   "items": {
     "s1": {
       "title": "Technical advisory & studies",
@@ -21,7 +21,7 @@
     },
     "s4": {
       "title": "Master of ceremonies",
-      "text": "Galas, conferences, official ceremonies — from brief to run of show."
+      "text": "Galas, conferences, official ceremonies - from brief to run of show."
     },
     "s5": {
       "title": "One-to-one coaching",

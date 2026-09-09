@@ -15,7 +15,7 @@ interface FilterBarProps {
   variant?: 'underline' | 'pills'
 }
 
-/** Filtres domaine — underline (défaut) ou pills (page réalisations). */
+/** Filtres domaine - underline (défaut) ou pills (page réalisations). */
 export function FilterBar({
   filters,
   label,

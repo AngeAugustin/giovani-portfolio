@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "About — Giovani HOUENOU",
+    "title": "About - Giovani HOUENOU",
     "description": "Background, expertise and vision of Giovani HOUENOU: civil engineer, TV presenter & MC, public speaking coach."
   },
   "watermark": "ABOUT",
   "eyebrow": "About",
   "backHome": "Back to home",
   "title": "At the intersection of structure, stage and voice",
-  "lead": "Civil engineer, TV presenter & master of ceremonies, public speaking coach — one presence at the service of your projects.",
+  "lead": "Civil engineer, TV presenter & master of ceremonies, public speaking coach - one presence at the service of your projects.",
   "story": {
     "p1": "Trained as a civil engineer, Giovani learned to read reality as a system: loads, constraints, balance. That same rigor now shapes his media presence and coaching method.",
-    "p2": "As a TV presenter and master of ceremonies, he turns every speaking moment into a memorable experience — timing, warmth, and mastery of silence.",
+    "p2": "As a TV presenter and master of ceremonies, he turns every speaking moment into a memorable experience - timing, warmth, and mastery of silence.",
     "p3": "As a coach, he helps leaders, creators and emerging talents find a clear, credible and embodied voice."
   },
   "stats": [
@@ -23,28 +23,28 @@
     "watermark": "EXPERIENCE",
     "eyebrow": "Experience",
     "title": "Professional path",
-    "subtitle": "A timeline of roles, impact and presence — from site to stage, from structure to voice.",
+    "subtitle": "A timeline of roles, impact and presence - from site to stage, from structure to voice.",
     "items": [
       {
-        "period": "2022 — Present",
+        "period": "2022 - Present",
         "role": "Public speaking coach",
         "org": "Independent",
         "location": "Cotonou, Benin",
-        "text": "Coaching for executives, sales teams and emerging talents. COMEX workshops, pitch sessions and high-pressure delivery — clear method: message structure, stage presence, actionable feedback."
+        "text": "Coaching for executives, sales teams and emerging talents. COMEX workshops, pitch sessions and high-pressure delivery - clear method: message structure, stage presence, actionable feedback."
       },
       {
-        "period": "2018 — Present",
+        "period": "2018 - Present",
         "role": "TV presenter & Master of ceremonies",
         "org": "National stages & events",
         "location": "Benin",
-        "text": "Hosting shows, ceremonies and corporate events. Live interviews and rhythm management on air — stage signature: precision, warmth, elegance."
+        "text": "Hosting shows, ceremonies and corporate events. Live interviews and rhythm management on air - stage signature: precision, warmth, elegance."
       },
       {
-        "period": "2015 — Present",
+        "period": "2015 - Present",
         "role": "Civil engineer",
         "org": "Construction projects & engineering firms",
         "location": "Benin",
-        "text": "Technical support on structures, sites and execution follow-up. Coordination with clients and stakeholders — structural rigor applied to every delivery."
+        "text": "Technical support on structures, sites and execution follow-up. Coordination with clients and stakeholders - structural rigor applied to every delivery."
       }
     ]
   },
@@ -57,13 +57,13 @@
       {
         "period": "2015",
         "role": "Civil engineering degree",
-        "org": "Engineering school — Benin",
+        "org": "Engineering school - Benin",
         "location": "Benin",
         "note": "Honours",
         "text": "Training in structures, materials and project delivery for built works."
       },
       {
-        "period": "2018 — 2019",
+        "period": "2018 - 2019",
         "role": "Public speaking & media training",
         "org": "Professional workshops",
         "location": "Cotonou, Benin",
@@ -128,7 +128,7 @@
     "title": "What guides the work",
     "subtitle": "Four pillars linking the site, the stage and the training room.",
     "items": [
-      { "title": "Rigor", "text": "Every detail matters — on a blueprint and on a script." },
+      { "title": "Rigor", "text": "Every detail matters - on a blueprint and on a script." },
       { "title": "Presence", "text": "Being fully there for the audience and the project." },
       { "title": "Transmission", "text": "Sharing concrete tools, not empty slogans." },
       { "title": "Excellence", "text": "Aiming for a professional standard, every time." }
@@ -138,7 +138,7 @@
     "watermark": "CV",
     "eyebrow": "CV",
     "title": "Download my CV",
-    "subtitle": "Path, expertise and selected work — ready to share with your team.",
+    "subtitle": "Path, expertise and selected work - ready to share with your team.",
     "cardText": "A concise PDF for professional opportunities, partnerships and collaborations.",
     "button": "Download PDF"
   }

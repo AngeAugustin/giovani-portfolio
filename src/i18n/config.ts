@@ -9,6 +9,7 @@ import portfolioFr from './fr/portfolio.json'
 import servicesFr from './fr/services.json'
 import contactFr from './fr/contact.json'
 import testimonialsFr from './fr/testimonials.json'
+import blogFr from './fr/blog.json'
 
 import commonEn from './en/common.json'
 import homeEn from './en/home.json'
@@ -18,6 +19,7 @@ import portfolioEn from './en/portfolio.json'
 import servicesEn from './en/services.json'
 import contactEn from './en/contact.json'
 import testimonialsEn from './en/testimonials.json'
+import blogEn from './en/blog.json'
 
 import { detectBrowserLocale, getStoredLocale } from '@/lib/utils'
 
@@ -32,6 +34,7 @@ void i18n.use(initReactI18next).init({
       services: servicesFr,
       contact: contactFr,
       testimonials: testimonialsFr,
+      blog: blogFr,
     },
     en: {
       common: commonEn,
@@ -42,6 +45,7 @@ void i18n.use(initReactI18next).init({
       services: servicesEn,
       contact: contactEn,
       testimonials: testimonialsEn,
+      blog: blogEn,
     },
   },
   lng: getStoredLocale() ?? detectBrowserLocale(),
@@ -56,6 +60,7 @@ void i18n.use(initReactI18next).init({
     'services',
     'contact',
     'testimonials',
+    'blog',
   ],
   interpolation: { escapeValue: false },
   returnNull: false,

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Expertise domains — Giovani HOUENOU",
+    "title": "Expertise domains - Giovani HOUENOU",
     "description": "Explore Giovani's three universes: civil engineering, TV & MC, public speaking coaching."
   },
   "watermark": "CRAFT",
   "eyebrow": "Domains",
   "backHome": "Back to home",
   "title": "How I can support you",
-  "subtitle": "Three complementary universes to build, communicate and inspire — from site to stage.",
-  "gridIntro": "Pick a domain to explore dedicated content — the same standard of presence, differentiated accents.",
+  "subtitle": "Three complementary universes to build, communicate and inspire - from site to stage.",
+  "gridIntro": "Pick a domain to explore dedicated content - the same standard of presence, differentiated accents.",
   "explore": "Explore",
   "civil": {
     "title": "Civil Engineering",
@@ -16,7 +16,7 @@
     "intro": "Design, site supervision and technical advisory for reliable, lasting works in Benin and West Africa.",
     "index": "01",
     "available": "Available",
-    "overview": "I support owners and project teams on design, control and site follow-up. My approach combines technical rigor, on-site presence and clear reporting — for reliable, compliant and lasting deliverables.",
+    "overview": "I support owners and project teams on design, control and site follow-up. My approach combines technical rigor, on-site presence and clear reporting - for reliable, compliant and lasting deliverables.",
     "highlights": [
       "Technical studies and sizing",
       "Construction site supervision",
@@ -76,7 +76,7 @@
   "media": {
     "title": "TV & Master of Ceremonies",
     "tagline": "The stage as field",
-    "intro": "Hosting shows, galas, conferences and official ceremonies — a presence that carries rhythm and emotion.",
+    "intro": "Hosting shows, galas, conferences and official ceremonies - a presence that carries rhythm and emotion.",
     "index": "02",
     "available": "Available",
     "overview": "I host shows and ceremonies with a presence that structures the run of show, elevates speakers and keeps the audience engaged. From brief to stage, I deliver clear, elegant, controlled hosting.",
@@ -139,10 +139,10 @@
   "coach": {
     "title": "Public Speaking Coach",
     "tagline": "Voice as leverage",
-    "intro": "Workshops and one-to-one coaching to speak with clarity, impact and authenticity — on stage and at work.",
+    "intro": "Workshops and one-to-one coaching to speak with clarity, impact and authenticity - on stage and at work.",
     "index": "03",
     "available": "Available",
-    "overview": "I help executives, spokespersons and teams structure their message, manage stage fright and embody credible presence. One-to-one coaching or group workshops — always grounded in real situations.",
+    "overview": "I help executives, spokespersons and teams structure their message, manage stage fright and embody credible presence. One-to-one coaching or group workshops - always grounded in real situations.",
     "highlights": [
       "Executive one-to-one coaching",
       "Corporate & institutional workshops",
@@ -169,7 +169,7 @@
       },
       {
         "title": "Posture & presence",
-        "text": "Voice, eye contact, body — concrete tools to embody the talk."
+        "text": "Voice, eye contact, body - concrete tools to embody the talk."
       },
       {
         "title": "Stage fright management",
@@ -210,6 +210,6 @@
     "related": "Related work",
     "otherDomains": "Other universes",
     "ctaTitle": "A project in this universe?",
-    "ctaText": "Let’s talk about your need — site, stage or speaking — and build the right support."
+    "ctaText": "Let’s talk about your need - site, stage or speaking - and build the right support."
   }
 }

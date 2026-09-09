@@ -1,20 +1,20 @@
 {
   "meta": {
-    "title": "Work — Giovani HOUENOU",
+    "title": "Work - Giovani HOUENOU",
     "description": "Filterable portfolio of civil engineering, media and coaching projects."
   },
   "watermark": "WORK",
   "backHome": "Back to home",
   "eyebrow": "Work",
   "title": "Projects that leave a mark",
-  "subtitle": "A selection of sites, stages and coaching engagements — built for rigor and presence.",
+  "subtitle": "A selection of sites, stages and coaching engagements - built for rigor and presence.",
   "ctaDomains": "View domains",
   "filterLabel": "Filter by domain",
   "caseStudy": "Case study",
   "empty": "No projects in this category.",
   "promise": {
     "label": "Promise",
-    "quote": "Projects delivered with clarity — from site to stage.",
+    "quote": "Projects delivered with clarity - from site to stage.",
     "forWhom": "For whom?",
     "tags": ["Civil Engineering", "TV & MC", "Coaching"]
   },
@@ -33,7 +33,7 @@
     "related": "Related work",
     "backPortfolio": "All projects",
     "ctaTitle": "A similar project in mind?",
-    "ctaText": "Let’s talk about your need — you’ll get a clear proposal back."
+    "ctaText": "Let’s talk about your need - you’ll get a clear proposal back."
   },
   "items": {
     "pont-cotonou": {
@@ -43,7 +43,7 @@
       "location": "Cotonou, Benin",
       "overview": "On a strategic corridor in a dense area, the structure had to ease traffic while respecting soil constraints, phasing and continuity of use. The goal: secure technical choices, document controls and keep coordination with the design team sharp.",
       "context": "High-impact urban infrastructure: crossing in a dense setting, multiple interfaces (roads, utilities, residents) and a tight schedule. Structural specs and control traceability were critical for handover.",
-      "role": "Consulting engineer — technical follow-up, note review, site checkpoints and coordination with the design team to resolve gaps before they cost time.",
+      "role": "Consulting engineer - technical follow-up, note review, site checkpoints and coordination with the design team to resolve gaps before they cost time.",
       "result": "Delivery to specification, on schedule, with a clear control file for the owner. Non-conformities were handled early rather than at the end of the works.",
       "approach": [
         "Frame technical requirements and control points",
@@ -67,7 +67,7 @@
       "location": "Greater Nokoué, Benin",
       "overview": "Multi-building program with soil constraints and tight phasing. The aim was to secure structural quality while keeping dialogue fluid between developer, contractors and the design office.",
       "context": "Residential scheme across several lots, with many technical interfaces and strong pressure on first-building delivery dates.",
-      "role": "Technical supervision and contractor interface — validating execution, quality alerts and support for developer arbitrations.",
+      "role": "Technical supervision and contractor interface - validating execution, quality alerts and support for developer arbitrations.",
       "result": "Structural quality validated, fewer non-conformities on site, and clearer reporting for technical and financial follow-up.",
       "approach": [
         "Map technical risks per lot",
@@ -91,7 +91,7 @@
       "location": "Porto-Novo, Benin",
       "overview": "Rehabilitation of pavements and associated networks in an urban setting. The project required rigorous quality control and clear reporting for a non-technical owner.",
       "context": "Works in an urban area with traffic constraints, utility coordination and surface durability requirements.",
-      "role": "Quality control and reporting for the owner — field presence, execution checks and gap summaries.",
+      "role": "Quality control and reporting for the owner - field presence, execution checks and gap summaries.",
       "result": "Improved surface durability, clearer deliverables, and better-informed decisions throughout the works.",
       "approach": [
         "Define acceptance criteria",
@@ -115,7 +115,7 @@
       "location": "Cotonou, Benin",
       "overview": "Weekly format mixing debates, portraits and live moments. On-air hosting had to stay fluid, embodied and true to the show’s brand tone.",
       "context": "Cultural prime time with varied guests, timed segments and an audience used to a precise rhythm.",
-      "role": "Lead presenter — on-air flow, interviews and live transitions.",
+      "role": "Lead presenter - on-air flow, interviews and live transitions.",
       "result": "Loyal audience, strong show branding, and positive feedback on presence and clarity of exchanges.",
       "approach": [
         "Editorial brief with the newsroom",
@@ -139,7 +139,7 @@
       "location": "Cotonou, Benin",
       "overview": "Protocol ceremony bringing institutions and private partners together. The stake: an impeccable run of show, the right tone and frictionless timing.",
       "context": "Awards evening with protocol, multiple speeches, prize moments and capture constraints.",
-      "role": "Master of ceremonies — run-of-show writing, transitions, announcements and room pace.",
+      "role": "Master of ceremonies - run-of-show writing, transitions, announcements and room pace.",
       "result": "Smooth evening, right tone, unanimous organizer feedback and capture without rhythm breaks.",
       "approach": [
         "Protocol brief and evening goals",
@@ -163,7 +163,7 @@
       "location": "Cotonou, Benin",
       "overview": "A day of panels, keynotes and networking for executives. Moderation had to energize exchanges without overshadowing speakers, while holding a tight schedule.",
       "context": "Multi-session forum with sponsors, international speakers and a demanding audience.",
-      "role": "Moderator and master of ceremonies for the day — opening, panels, transitions and close.",
+      "role": "Moderator and master of ceremonies for the day - opening, panels, transitions and close.",
       "result": "Dynamic exchanges, timing respected, sponsor and participant satisfaction.",
       "approach": [
         "Align on the forum’s key messages",
@@ -183,11 +183,11 @@
     "atelier-executives": {
       "title": "Executive workshop",
       "summary": "Intensive public speaking program for a leadership team.",
-      "client": "Company — executive committee",
+      "client": "Company - executive committee",
       "location": "Cotonou, Benin",
       "overview": "Leaders needed to align strategic messaging with presence. The program combined method, individual feedback and near-real drills.",
       "context": "Executive team exposed internally and externally, with uneven comfort levels when speaking.",
-      "role": "Coach — curriculum design, group sessions and targeted one-to-one feedback.",
+      "role": "Coach - curriculum design, group sessions and targeted one-to-one feedback.",
       "result": "Measurable gains in clarity, posture and public-meeting impact; a shared language to carry strategy.",
       "approach": [
         "Individual and group diagnosis",
@@ -210,8 +210,8 @@
       "client": "Academy / youth program",
       "location": "Benin",
       "overview": "Group training for young talent stepping onto stage or media. Focus: method, confidence and intensive live drills.",
-      "context": "Motivated but uneven cohort — need for a demanding and supportive frame.",
-      "role": "Lead trainer — method, exercises, feedback and preparation for public appearances.",
+      "context": "Motivated but uneven cohort - need for a demanding and supportive frame.",
+      "role": "Lead trainer - method, exercises, feedback and preparation for public appearances.",
       "result": "More confident cohort; several participants placed in hosting or public speaking roles.",
       "approach": [
         "Set fundamentals (structure, voice, eye contact)",
@@ -235,7 +235,7 @@
       "location": "Confidential",
       "overview": "Public intervention under strong media attention. Coaching covered the script, rehearsals and stress management for clear, credible presence.",
       "context": "High-stakes address, mixed audience and expected press coverage.",
-      "role": "Coach — speech structure, rehearsals, posture and stage-fright management.",
+      "role": "Coach - speech structure, rehearsals, posture and stage-fright management.",
       "result": "Clear speech, steady posture, positive press coverage and control of the core message.",
       "approach": [
         "Clarify the goal and single core message",

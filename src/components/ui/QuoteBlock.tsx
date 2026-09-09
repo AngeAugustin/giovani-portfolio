@@ -9,7 +9,7 @@ interface QuoteBlockProps {
   className?: string
 }
 
-/** Carte témoignage — guillemets décoratifs + séparateur + auteur (réf. layout cartes). */
+/** Carte témoignage - guillemets décoratifs + séparateur + auteur (réf. layout cartes). */
 export function QuoteBlock({ quote, author, role, className }: QuoteBlockProps) {
   return (
     <figure

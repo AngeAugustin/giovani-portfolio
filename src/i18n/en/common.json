@@ -6,6 +6,7 @@
     "about": "About",
     "domains": "Domains",
     "portfolio": "Work",
+    "blog": "Blog",
     "contact": "Contact",
     "openMenu": "Open menu",
     "closeMenu": "Close menu"
@@ -22,7 +23,7 @@
   },
   "footer": {
     "rights": "All rights reserved.",
-    "legal": "Legal notice",
+    "credit": "Built by AF",
     "location": "Cotonou, Benin",
     "navTitle": "Navigation",
     "domainsTitle": "Universes",
@@ -35,7 +36,7 @@
     "all": "All"
   },
   "seo": {
-    "siteName": "Giovani HOUENOU — Portfolio",
+    "siteName": "Giovani HOUENOU - Portfolio",
     "defaultDescription": "Civil engineer, TV presenter, master of ceremonies and public speaking coach based in Benin."
   },
   "loader": {

@@ -12,7 +12,7 @@ interface MobileDrawerProps {
   className?: string
 }
 
-/** Drawer mobile accessible — pattern Rotary `MobileDrawer`. */
+/** Drawer mobile accessible - pattern Rotary `MobileDrawer`. */
 export function MobileDrawer({
   open,
   onClose,

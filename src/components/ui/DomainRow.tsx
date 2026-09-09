@@ -16,7 +16,7 @@ interface DomainRowProps {
   className?: string
 }
 
-/** Rangée éditoriale asymétrique pour un univers — pas une carte icône. */
+/** Rangée éditoriale asymétrique pour un univers - pas une carte icône. */
 export function DomainRow({
   title,
   tagline,

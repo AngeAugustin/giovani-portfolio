@@ -16,7 +16,7 @@ interface SectionProps {
 const toneClasses: Record<SectionTone, string> = {
   default: 'bg-transparent',
   muted: 'bg-surface-muted',
-  /* Bleu primaire plein — sections signature, fond propre */
+  /* Bleu primaire plein - sections signature, fond propre */
   primary: 'relative overflow-hidden bg-primary-deep text-white',
   stage: 'bg-stage text-white',
 }

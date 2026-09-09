@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { motion, useReducedMotion } from 'framer-motion'
 
-/** Desktop-only custom cursor — subtle blue disc + accent ring for premium feel */
+/** Desktop-only custom cursor - subtle blue disc + accent ring for premium feel */
 export function CustomCursor() {
   const reduce = useReducedMotion()
   const [pos, setPos] = useState({ x: -100, y: -100 })

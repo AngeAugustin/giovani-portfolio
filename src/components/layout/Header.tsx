@@ -97,10 +97,12 @@ export function Header() {
           </nav>
 
           <div className="flex shrink-0 items-center gap-2 sm:gap-3">
-            <LanguageSwitcher />
-            <Button asChild size="sm" className="hidden md:inline-flex">
-              <Link to={localizedPath('contact', locale)}>{t('cta.contact')}</Link>
-            </Button>
+            <div className="hidden lg:contents">
+              <LanguageSwitcher />
+              <Button asChild size="sm">
+                <Link to={localizedPath('contact', locale)}>{t('cta.contact')}</Link>
+              </Button>
+            </div>
             <button
               type="button"
               className="inline-flex h-10 w-10 items-center justify-center rounded-[var(--radius-md)] border border-border text-ink lg:hidden"
@@ -122,14 +124,7 @@ export function Header() {
           />
         </nav>
         <div className="mt-auto border-t border-border p-4">
-          <div className="mb-3">
-            <LanguageSwitcher />
-          </div>
-          <Button asChild className="w-full">
-            <Link to={localizedPath('contact', locale)} onClick={() => setOpen(false)}>
-              {t('cta.contact')}
-            </Link>
-          </Button>
+          <LanguageSwitcher />
         </div>
       </MobileDrawer>
     </>
