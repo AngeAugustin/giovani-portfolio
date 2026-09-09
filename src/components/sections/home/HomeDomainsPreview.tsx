@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next'
 import { Section } from '@/components/ui/Section'
 import { SectionHeader } from '@/components/ui/SectionHeader'
 import { DomainRow } from '@/components/ui/DomainRow'
-import { TextLink } from '@/components/ui/TextLink'
 import { localizedPath } from '@/router/paths'
 import type { Locale } from '@/types'
 

@@ -30,13 +30,10 @@ function FlagUSA({ className }: { className?: string }) {
   )
 }
 
-const localeFlags: Record<
-  Locale,
-  { label: string; Flag: (props: { className?: string }) => JSX.Element }
-> = {
+const localeFlags = {
   fr: { label: 'Français', Flag: FlagFrance },
   en: { label: 'English', Flag: FlagUSA },
-}
+} as const
 
 export function LanguageSwitcher({ className }: { className?: string }) {
   const { t, i18n } = useTranslation('common')
