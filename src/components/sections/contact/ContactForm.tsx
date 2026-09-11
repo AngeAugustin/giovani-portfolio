@@ -34,9 +34,18 @@ export function ContactForm() {
 
   const onSubmit = async (data: FormValues) => {
     try {
-      // Mock send - ready to wire Resend / EmailJS
-      await new Promise((r) => setTimeout(r, 900))
-      console.info('Contact form submission', data)
+      const apiBase =
+        import.meta.env.VITE_API_URL?.replace(/\/$/, '') ||
+        'http://localhost:3000'
+
+      const res = await fetch(`${apiBase}/api/public/contact`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      })
+
+      if (!res.ok) throw new Error('send_failed')
+
       setStatus('success')
       reset()
     } catch {

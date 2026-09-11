@@ -14,10 +14,10 @@
     "p3": "En tant que coach, il accompagne dirigeants, créateurs et jeunes talents à trouver une voix claire, crédible et incarnée."
   },
   "stats": [
-    { "value": "10+", "label": "Années d'expérience" },
-    { "value": "80+", "label": "Événements animés" },
-    { "value": "200+", "label": "Personnes coachées" },
-    { "value": "3", "label": "Univers d'expertise" }
+    { "value": "5+", "label": "Années d'expérience" },
+    { "value": "10+", "label": "Événements animés" },
+    { "value": "50+", "label": "Personnes coachées" },
+    { "value": "3", "label": "Domaines d'expertise" }
   ],
   "experience": {
     "watermark": "EXPÉRIENCE",

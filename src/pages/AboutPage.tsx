@@ -15,8 +15,7 @@ import { localizedPath } from '@/router/paths'
 import { cn } from '@/lib/utils'
 import type { Locale } from '@/types'
 
-const ABOUT_PORTRAIT =
-  'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=900&q=80&auto=format&fit=crop'
+const ABOUT_PORTRAIT = '/giovani.png'
 
 const expertiseIcons: Record<string, LucideIcon> = {
   '01': Building2,
@@ -211,6 +210,7 @@ export function AboutPage() {
                   aspect="aspect-[4/5]"
                   priority
                   className="w-full"
+                  imgClassName="object-[center_15%]"
                 />
                 <span className="cue-light absolute -left-3 top-8 hidden h-20 sm:block sm:-left-4" aria-hidden />
               </div>
